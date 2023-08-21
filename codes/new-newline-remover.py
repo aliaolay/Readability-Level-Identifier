@@ -8,7 +8,7 @@ import os
 path = "C:/Users/Alia/Documents/school/THESIS/Readability-Level-Identifier/raw-txt" 
 
 # insert folder path where new file will be created
-new_path = "C:/Users/Alia/Documents/school/THESIS/Readability-Level-Identifier/clean-txt"
+new_path = ""
 
 # change directory
 os.chdir(path)
