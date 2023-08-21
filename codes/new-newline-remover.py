@@ -5,8 +5,11 @@
 import os
   
 # insert folder path containing all raw text files
-path = "" 
-  
+path = "C:/Users/Alia/Documents/school/THESIS/Readability-Level-Identifier/raw-txt" 
+
+# insert folder path where new file will be created
+new_path = "C:/Users/Alia/Documents/school/THESIS/Readability-Level-Identifier/clean-txt"
+
 # change directory
 os.chdir(path)
   
@@ -14,7 +17,7 @@ os.chdir(path)
 # writes content to new file, stripped
 def read_text_file(file_path):
     path, file_name = os.path.split(file_path) # var(file_name) == ... .txt
-    new_file_name = path + '/' + file_name.rstrip(".txt") + '_nonewline.txt'
+    new_file_name = new_path + '/' + file_name.rstrip(".txt") + '_nonewline.txt'
     new_file = open(new_file_name, 'w')
 
     with open(file_path, 'r') as file:
