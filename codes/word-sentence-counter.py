@@ -2,7 +2,7 @@ import nltk
 from nltk.tokenize import word_tokenize
 
 #uncomment line below if you haven't downloaded punkt so that the code can run
-#nltk.download('punkt') 
+nltk.download('punkt') 
 
 
 #SOURCE: https://stackoverflow.com/questions/5074562/how-do-the-count-the-number-of-sentences-words-and-characters-in-a-file

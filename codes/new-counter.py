@@ -2,10 +2,10 @@ import os
 
 import nltk
 from nltk.tokenize import word_tokenize
-# nltk.download('punkt')
+nltk.download('punkt')
   
 # target folder path
-path = "..."
+path = "C:/Users/Alia/Documents/school/THESIS/Readability-Level-Identifier/clean-txt"
   
 os.chdir(path)
   
@@ -31,7 +31,7 @@ def read_text_file(file_path):
     all_word_count += len(words)
 
     print('----------------------------------------------------------')
-    print('Title: ' + file_name.rstrip("_nonewline.txt"))
+    print('Title: ' + file_name.rstrip("_clean.txt"))
     print("Sentence(s):", len(corpusReader.sents()))
     print("Words:", len(words))
   
