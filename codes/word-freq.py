@@ -7,7 +7,7 @@ import pandas as pd
 path = r"C:/Users/Alia/Documents/school/THESIS/Readability-Level-Identifier/clean-txt"
 file_name = "Ang Aklatang Pusa_clean.txt"
 
-#SOURCE: https://dev.to/leriaetnasta/word-frequency-counter-using-nltk-40ha
+# https://dev.to/leriaetnasta/word-frequency-counter-using-nltk-40ha
 text = open(path + "/" + file_name).read()
 text_tokens = word_tokenize(text)
 fdist = FreqDist(text_tokens)

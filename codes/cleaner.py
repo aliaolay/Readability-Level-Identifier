@@ -34,6 +34,6 @@ for file in os.listdir():
 
     # checks file format
     if file.endswith(".txt"):
-        file_path = f"{path}/{file}" # change slash to \ if working on windows i think?
+        file_path = f"{path}/{file}"    # change slash to \ if working on windows i think?
   
         read_text_file(file_path)

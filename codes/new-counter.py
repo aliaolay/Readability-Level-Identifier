@@ -41,7 +41,7 @@ for file in os.listdir():
 
     # checks text file format
     if file.endswith(".txt"):
-        file_path = f"{path}/{file}" # change to \ for windows
+        file_path = f"{path}/{file}"    # change to \ for windows
   
         # call read text file function
         read_text_file(file_path)
