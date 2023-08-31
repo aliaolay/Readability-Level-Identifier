@@ -1,5 +1,6 @@
 from nltk.tokenize import sent_tokenize
 import os
+import string
 
 
 path = "/Users/jerseydayao/Desktop/hckrwmn/repositories/Readability-Level-Identifier/clean-txt"
@@ -18,7 +19,9 @@ def read_text_file(file_path):
     new_file = open(new_file_name, 'w')
 
     with open(file_path, 'r') as file:
+
         for line in tokenized:
+            line = line.translate(str.maketrans('', '', string.punctuation)) # removes all punctuations from tokenized sentences
             new_file.write(line + '\n')
     
     new_file.close()
