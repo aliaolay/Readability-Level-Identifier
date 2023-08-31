@@ -5,25 +5,26 @@
 import os
   
 # insert folder path containing all raw text files
-path = "C:/Users/Alia/Documents/school/THESIS/Readability-Level-Identifier/raw-txt" 
+path = "/Users/jerseydayao/Desktop/hckrwmn/repositories/Readability-Level-Identifier/raw-txt" 
 
 # insert folder path where new file will be created
-new_path = "C:/Users/Alia/Documents/school/THESIS/Readability-Level-Identifier/clean-txt"
+new_path = "/Users/jerseydayao/Desktop/hckrwmn/repositories/Readability-Level-Identifier/clean-txt"
 
 # change directory
 os.chdir(path)
 
+
 # writes content to new file, stripped, and converts all letters to lowercase
 def read_text_file(file_path):
     path, file_name = os.path.split(file_path) # var(file_name) == ... .txt
-    new_file_name = new_path + '/' + file_name.rstrip(".txt") + '_clean.txt'
+    title = (os.path.splitext(file_name)[0]).removesuffix('_cleaned')
+    new_file_name = new_path + '/' + title + '_cleaned.txt'
     new_file = open(new_file_name, 'w')
 
     with open(file_path, 'r') as file:
         for line in file:
             cleaned_line = line.strip().lower()
             new_file.write(' ' + cleaned_line)
-            
             
     new_file.close()
 
