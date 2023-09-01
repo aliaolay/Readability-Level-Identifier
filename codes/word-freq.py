@@ -1,22 +1,29 @@
 import os
 import nltk
+nltk.download("punkt")
 from nltk.tokenize import word_tokenize
 from nltk.probability import FreqDist
 import pandas as pd
 
-path = r"C:/Users/Alia/Documents/school/THESIS/Readability-Level-Identifier/clean-txt"
-file_name = "Ang Aklatang Pusa_clean.txt"
+path = "/Users/stephanie/Desktop/thesis/Readability-Level-Identifier/clean-txt"
+file_name = "Ang Aklatang Pusa_cleaned.txt"
 
-# https://dev.to/leriaetnasta/word-frequency-counter-using-nltk-40ha
-text = open(path + "/" + file_name).read()
+# Read the text file
+with open(os.path.join(path, file_name), 'r', encoding='utf-8') as file:
+    text = file.read()
+
 text_tokens = word_tokenize(text)
 fdist = FreqDist(text_tokens)
 
-df_fdist = pd.DataFrame.from_dict(fdist, orient='index')
-df_fdist.columns = ['Frequency']
+# Create a DataFrame from the frequency distribution
+df_fdist = pd.DataFrame.from_dict(fdist, orient='index', columns=['Frequency'])
 df_fdist.index.name = 'Word'
-print(df_fdist)
 
-out_path = "C:/Users/Alia/Documents/school/THESIS/Readability-Level-Identifier/word-freq output"
+# Sort the DataFrame by frequency in descending order
+df_fdist_sorted = df_fdist.sort_values(by='Frequency', ascending=False)
+
+print(df_fdist_sorted)
+
+out_path = "/Users/stephanie/Desktop/thesis/Readability-Level-Identifier/word-freq output"
 out_filename = "[wordfreq] " + file_name
-df_fdist.to_csv(out_path + "/" + out_filename)
+df_fdist_sorted.to_csv(os.path.join(out_path, out_filename), encoding='utf-8')
