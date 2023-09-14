@@ -1,0 +1,86 @@
+nagsimula|VBTS ang|DTC lahat|PRI sa|CCT masukal|JJD na|CCP bakuran|NNC ni|DTP aling|PRQ_CCP salvacion|NNC .|PMP
+dahil|CCR laging|RBW_CCP madilim|JJD sa|CCT tahanan|NNC niya|PRS ,|PMC tinatambakan|VBTR ng|CCB mga|DTCP tao|NNC ang|DTC lote|NNC ng|CCB sari-saring|JJD_CCP basura|NNC .|PMP
+takot|JJD sa|CCT tao|NNC si|DTP aling|PRQ_CCP salvacion|NNC .|PMP
+bibihira|JJD siyang|PRS_CCP lumabas|VBAF kaya|CCR `|PMS di|RBF napapansin|VBTR ang|DTC tambak|NNC ng|CCB basura|NNC sa|CCT bakuran|NNC .|PMP
+mas|JJCC nanaisin|VBTS pa|RBI niyang|PRS_CCP makipaghuntahan|VBW sa|CCT mga|DTCP aklat|NNC .|PMP
+isang|PRI_CCP hatinggabi|RBW ,|PMC walang|VBN_CCP tigil|NNC ang|DTC salimbayang|NNC_CCP ngiyaw|NNC sa|CCT kaniyang|PRSP_CCP bakuran|NNC .|PMP
+napilitang|RBD_CCP lumabas|VBAF ng|CCB tahanan|NNC si|DTP aling|PRQ_CCP salvacion|NNC .|PMP
+tinuklas|VBTS niya|PRS kung|RBK saan|RBQ nagmumula|VBTR ang|DTC ingay|NNC .|PMP
+may|VBH kumaluskos|NNC .|PMP
+naggalawan|VBTR ang|DTC mga|DTCP tuyong|JJD_CCP dahon|NNC .|PMP
+nang|RBW kaniyang|PRSP_CCP lapitan|NNC ,|PMC tumambad|VBAF ang|DTC apat|JJN na|CCP kuting|NNC sa|CCT kahon|NNC ng|CCB sapatos|NNC .|PMP
+kahit|CCT hindi|RBF naging|VBTS isang|PRI_CCP ina|NNC ,|PMC lumitaw|VBAF ang|DTC katangian|NNC niyang|PRS_CCP mapagkalinga|VBW .|PMP
+lahat|PRI yata|RBM ng|CCB puso|NNC '|PMS y|FW matutunaw|VBTF sa|CCT nagsusumamong|VBTR_CCP titig|NNC ng|CCB mga|DTCP kuting|NNC .|PMP
+hindi|RBF niya|PRS alintanang|NNC_CCP mga|DTCP itim|JJD na|CCP kuting|NNC ito|PRO .|PMP
+pamahiin|NNC ng|CCB marami|PRI ,|PMC nagdadala|VBTR sila|PRP ng|CCB kamalasan|NNC .|PMP
+dalidali|VBTS niyang|PRS_CCP kinuha|VBOF ang|DTC kahon|NNC at|CCA dinala|VBTS sa|CCT tahanan|NNC .|PMP
+doon|PRL nagsimula|VBTS ang|DTC alamat|NNC .|PMP
+kumalat|VBAF ang|DTC balitang|NNC_CCP kung|CCR may|VBH nais|VBS kang|PRS_CCP iligaw|VBOF na|CCP kuting|NNC ,|PMC itapon|VBTF mo|PRS sa|CCT masukal|JJD na|CCP bakuran|NNC sa|CCT kanto|NNC ng|CCB pook|NNC palaris|NNC .|PMP
+doo|RBT '|PMS y|FW may|VBH isang|PRI_CCP aleng|JJD_CCP kukupkop|NNC sa|CCT mga|DTCP di|RBF kanais-nais|JJD na|CCP alagain|NNC .|PMP
+may|VBH malagim|JJD na|CCP tsismis|NNC mula|RBL sa|CCT insidenteng|NNC_CCP iyon|PRO .|PMP
+naglalako|VBTR na|CCP raw|RBI ng|CCB mga|DTCP siopao|NNC si|DTP aling|PRQ_CCP salvacion|NNC sa|CCT binondo|NNC .|PMP
+ang|DTC totoo|RBT ,|PMC giliw|JJD na|CCP giliw|NNC si|DTP aling|PRQ_CCP salvacion|NNC sa|CCT mga|DTCP pusa|NNC .|PMP
+ang|DTC dati|JJD niyang|PRS_CCP estante|NNC ng|CCB mga|DTCP aklat|NNC ay|LM napalitan|VBTS ng|CCB mga|DTCP pusa|NNC .|PMP
+ang|DTC mga|DTCP aparador|NNC ,|PMC tokador|NNC ,|PMC at|CCA kabinet|NNC ay|LM naging|VBTS mumunting|JJD_CCP silid|NNC ng|CCB sarisaring|JJD_CCP kuting|NNC .|PMP
+namakyaw|VBTS siya|PRS ng|CCB mga|DTCP kahon|NNC nang|RBW mapag-alaman|VBW niyang|PRS_CCP mahilig|JJD sumiksik|VBAF dito|PRL ang|DTC mga|DTCP alaga|NNC .|PMP
+retiradong|JJD_CCP librarian|NNC si|DTP aling|PRQ_CCP salvacion|NNC .|PMP
+dahil|CCR sa|CCT kaniyang|PRSP_CCP kaalaman|NNC ,|PMC nakaisip|VBTS siya|PRS ng|CCB paraan|NNC upang|CCB isaayos|VBOF ang|DTC koleksiyon|NNC ng|CCB pusa|NNC .|PMP
+hindi|RBF sila|PRP nakasalansan|VBTS ayon|RBR sa|CCT taas|NNC ,|PMC gaya|JJC ng|CCB ginagawa|VBTR natin|PRP sa|CCT mga|DTCP aklat|NNC .|PMP
+igrinupo|VBTS niya|PRS ang|DTC mga|DTCP pusa|NNC ayon|RBR sa|CCT edad|NNC ,|PMC personalidad|NNC ,|PMC karanasan|NNC ,|PMC at|CCA natatanging|JJD_CCP talento|NNC .|PMP
+sa|CCT isang|PRI_CCP pahina|NNC ng|CCB katalogo|NNC ,|PMC makikita|VBTF ang|DTC ilang|PRQ_CCP tala|NNC :|PMS miming|FW ,|PMC 3|CDB buwan|NNC ,|PMC itim|JJD at|CCA malambing|JJD_CCP bola-bola|NNC ,|PMC 2|CDB taon|NNC ,|PMC pintor|NNC ,|PMC mananayaw|NNC takipsilim|NNC ,|PMC 6|CDB -LRB-|NNPA ?|FW -RRB-|NNPA
+taon|NNC ,|PMC bulag|JJD pero|CCT matalas|JJD daluyong|NNC ,|PMC 7|CDB buwan|NNC ,|PMC antukin|FW pero|CCT di|RBF batugan|NNC kahel|JJD ,|PMC 2|CDB linggo|NNC ,|PMC mang-aawit|NNC jinky|NNC ,|PMC 8|CDB buwan|NNC ,|PMC pilay|NNC ang|DTC isang|PRI_CCP binti|NNC hindi|RBF naglaon|VBTS ,|PMC ginawang|VBTS_CCP aklatang|RBD_CCP pusa|NNC ni|DTP aling|PRQ_CCP salvacion|NNC ang|DTC kaniyang|PRSP_CCP tahanan|NNC .|PMP
+bukas|JJD ito|PRO sa|CCT sinumang|PRI_CCP nais|VBS manghiram|VBW ng|CCB mga|DTCP ``|NNC aklat|NNC .|PMP ''|PMS
+may|VBH mga|DTCP pusang|NNC_CCP ``|FW room|FW use|FW only|FW .|PMP ''|PMS
+sila|PRP ang|DTC mga|DTCP pusang|NNC_CCP lihim|JJD niyang|PRS_CCP paborito|NNC .|PMP
+may|VBH mga|DTCP pusang|NNC_CCP maaaring|RBM hiramin|VBOF ng|CCB ilang|PRQ_CCP araw|NNC ,|PMC linggo|NNC ,|PMC o|CCT buwan|NNC ,|PMC depende|VBS sa|CCT pangangailangan|NNC ng|CCB humihiram|VBTR_VBAF .|PMP
+may|VBH multa|NNC sa|CCT mga|DTCP nahuhuling|JJD_CCP magsauli|NNC :|PMS isang|PRI_CCP kalderong|NNC_CCP paksiw|NNC ,|PMC bakuna|NNC ,|PMC isang|PRI_CCP boteng|NNC_CCP gatas|NNC ,|PMC bolang|NNC_CCP estambre|FW -LRB-|FW iyong|PRSP_CCP panggantsilyo|NNC -RRB-|NNPA ,|PMC o|CCT kaya|CCR '|PMS y|FW mga|DTCP posteng|NNC_CCP pangkalmot|JJD .|PMP
+sa|CCT pagbubukas|NNC ng|CCB aklatang|NNC_CCP pusa|NNC ,|PMC hinayaan|VBTS ni|DTP aling|PRQ_CCP salvacion|FW na|CCP mahanap|VBW ng|CCB sinuman|PRI ang|DTC nababagay|VBTR na|CCP pusa|NNC .|PMP
+naniniwala|VBTR siyang|PRS_CCP laging|RBW_CCP may|VBH katapat|JJD na|CCP tao|NNC ang|DTC isang|PRI_CCP pusa|NNC .|PMP
+isa|PRI sa|CCT unang|JJN_CCP bumisita|VBAF sa|CCT aklatang|NNC_CCP pusa|NNC ay|LM si|DTP mr.|NNCA hernandez|FW ,|PMC ang|DTC mayari|NNC ng|CCB sa|CCT tabi|NNC ng|CCB dagat|NNC seafood|FW restaurant|FW .|PMP
+naisip|VBTS niyang|PRS_CCP manghiram|VBW ng|CCB pitong|JJN_CCP -LRB-|NNP dahil|CCR suwerteng|JJD_CCP numero|NNC -RRB-|NNPA pusa|NNC na|CCP pantaboy|JJD sa|CCT daga|NNC at|CCA pang-akit|JJD sa|CCT suwerte|NNC .|PMP
+natapos|VBTS ang|DTC hapon|NNC na|CCP nanghiram|VBTS siya|PRS ng|CCB labing-isang|JJN_CCP sarikulay|NNC na|CCP pusa|NNC .|PMP
+``|PMS lunas|NNC sila|PRP sa|CCT mga|DTCP natitinik|VBTS ,|PMC ''|PMS payo|NNC ni|DTP aling|PRQ_CCP salvacion|NNC .|PMP
+``|PMS ipahid|VBOF mo|PRS lang|RBI ang|DTC kanilang|PRSP_CCP paa|NNC sa|CCT lalamunan|NNC at|CCA malulusaw|VBW ang|DTC tinik|NNC .|PMP ''|PMS
+nang|RBW sumunod|VBAF na|CCP linggo|NNC ,|PMC isang|PRI_CCP mag-anak|NNC ang|DTC bumisita|VBAF sa|CCT aklatang|NNC_CCP pusa|NNC .|PMP
+naghahanap|VBTR sila|PRP ng|CCB bagong|JJD_CCP miyembro|NNC ng|CCB pamilya|NNC .|PMP
+pagkaraan|RBW ng|CCB ilang|PRQ_CCP oras|NNC ,|PMC napili|VBTS nila|PRP si|DTP lobo|NNC .|PMP
+nasa|RBL isang|PRI_CCP sulok|NNC lang|RBI ito|PRO .|PMP
+gumagalaw|VBTR_VBAF lang|RBI kapag|CCR naghihikab|VBTR o|CCT nag-iinat|VBTR .|PMP
+``|PMS bakit|PRQ tayo|PRP hihiram|VBOF ng|CCB pusang|NNC_CCP malapit|JJD nang|RBW mamatay|VBW ?|PMQ ''|PMS
+pagtataka|VBW ng|CCB anak|NNC .|PMP
+nasaktan|VBTS si|DTP aling|PRQ_CCP salvacion|NNC sa|CCT narinig|VBTS .|PMP
+wala|VBN na|RBI ba|RBI talagang|RBT_CCP halaga|NNC kapag|CCR nagkakaedad|VBTR na|RBI ?|PMQ
+pinangaralan|VBTS ng|CCB magulang|NNC ang|DTC anak|NNC .|PMP
+``|PMS mas|JJCC kailangan|VBS niya|PRS tayo|PRP para|CCT magkapamilya|VBW siya|PRS sa|CCT dapithapon|NNC ng|CCB kaniyang|PRSP_CCP buhay|NNC .|PMP ''|PMS
+nahiwagaan|VBTR ngunit|CCT naliwanagan|VBTR naman|RBI ang|DTC isipan|NNC ng|CCB bata|NNC .|PMP
+isang|PRI_CCP hapon|NNC ,|PMC may|VBH bumisitang|VBTR_CCP isang|PRI_CCP pintor|NNC .|PMP
+dala|JJD ang|DTC kagamitan|NNC ,|PMC nagtungo|VBTS siya|PRS sa|CCT aklatang|NNC_CCP pusa|NNC upang|CCB maghanap|VBW ng|CCB inspirasyon|NNC .|PMP
+``|PMS lilikha|VBTF ako|PRS ng|CCB obra|NNC maestra|VBW ,|PMC ''|PMS pangako|NNC niya|PRS sa|CCT sarili|NNC .|PMP
+nang|RBW nilatag|VBTS ng|CCB pintor|NNC ang|DTC kaniyang|PRSP_CCP mga|DTCP gamit|NNC ,|PMC isang|PRI_CCP magaslaw|JJD na|CCP pusa|NNC ang|DTC lumublob|VBAF sa|CCT mga|DTCP lata|NNC ng|CCB pintura|NNC ,|PMC nag-ballet|VBTS sa|CCT kanbas|NNC ,|PMC at|CCA saka|CCA nagmarka|VBTS ng|CCB lagdang|NNC_CCP kalmot|NNC .|PMP
+nabigla|VBTS ang|DTC pintor|NNC sa|CCT nasaksihan|VBTS .|PMP
+madumi|JJD ,|PMC sabog|JJD ,|PMC walang|VBN_CCP kaayusan|NNC ang|DTC mga|DTCP nalikhang|JJD_CCP larawan|NNC ngunit|CCT may|VBH taglay|JJD itong|PRO_CCP rikit|FW .|PMP
+``|PMS a|NNC ,|PMC sining|NNC !|PMS ''|PMS
+hiyaw|RBD niyang|PRS_CCP waring|NNC_CCP nakatuklas|VBTS ng|CCB mamahaling|JJD_CCP hiyas|NNC .|PMP
+hiniram|VBOF ng|CCB pintor|NNC ang|DTC pusang|NNC_CCP si|DTP bola-bola|NNP .|PMP
+batid|VBS ni|DTP aling|PRQ_CCP salvacion|NNC na|CCP hindi|RBF na|RBI ito|PRO maibabalik|VBTF pa|RBI .|PMP
+sa|CCT ilang|PRQ_CCP dekada|NNC niyang|PRS_CCP pagiging|RBD librarian|NNC ,|PMC kilala|JJD na|RBI niya|PRS ang|DTC mga|DTCP mukha|NNC ng|CCB mga|DTCP hindi|RBF nagbabalik|VBTR .|PMP
+kumalat|VBAF ang|DTC reputasyon|NNC ng|CCB aklatang|NNC_CCP pusa|NNC sa|CCT pook|NNC palaris|NNC at|CCA sa|CCT mga|DTCP karatig-lugar|NNC .|PMP
+nariyan|VBTS ang|DTC araw|NNC na|CCP dinayo|VBTS ito|PRO ng|CCB dalawang|JJN_CCP bus|NNC ng|CCB mag-aaral|NNC upang|CCB matuto|VBW sa|CCT halaga|NNC ng|CCB pagsagip|NNC ng|CCB mga|DTCP pusakal|NNC .|PMP
+nariyan|VBTS ang|DTC humiling|VBAF ang|DTC isang|PRI_CCP opisina|NNC ng|CCB dalawampu|CDB '|PMS t|NNCA isang|PRI_CCP pusa|NNC upang|CCB magbigay-aliw|VBW sa|CCT nabubugnot|VBTR at|CCA naiinip|VBTR nilang|PRP_CCP mga|DTCP kawani|NNC .|PMP
+sumigla|VBAF ang|DTC mga|DTCP empleyado|NNC nang|RBW naglaro|VBTS '|PMS t|NNCA naglambing|VBTR_CCP ang|DTC mga|DTCP sorpresang|NNC_CCP pusa|NNC .|PMP
+nahilig|VBTS sa|CCT aklat|NNC ang|DTC mga|DTCP magaaral|NNC ng|CCB cruz|FW na|CCP daan|NNC elementary|NNC school|NNC dahil|CCR gawain|VBOF nilang|PRP_CCP basahan|VBTS_VBOF ng|CCB kuwento|NNC ang|DTC mga|DTCP pusa|NNC sa|CCT aklatan|NNC .|PMP
+napabilis|VBTS ang|DTC paggaling|NNC ng|CCB mga|DTCP maysakit|NNC sa|CCT santa|NNC elena|NNC municipal|FW hospital|FW nang|RBW ipaglaban|VBOF ng|CCB isang|PRI_CCP nars|NNC na|CCP nakakatulong|VBTR sa|CCT mga|DTCP pasyente|NNC ang|DTC isang|PRI_CCP pusa|NNC .|PMP
+maririnig|VBTF ang|DTC mahinahong|JJD_CCP prrrrrrrrr|NNC ng|CCB pusang|NNC_CCP yakap|NNC ang|DTC maraming|PRI_CCP nagpapagaling|VBTR .|PMP
+ngunit|CCT ang|DTC pinakamagandang|JJCS_JJD_CCP nangyari|VBTS sa|CCT aklatang|NNC_CCP pusa|NNC ay|LM nang|RBW araw|NNC na|CCP makatagpo|VBW ng|CCB batang|JJD_CCP lumad|NNC na|CCP si|DTP ugjab|NNC ang|DTC mabangis|JJD na|CCP pusang|NNC_CCP si|DTP daluyong|NNC .|PMP
+pareho|JJC silang|PRP_CCP naging|VBTS palaboy|NNC sa|CCT lansangan|NNC .|PMP
+kapwa|PRI silang|PRP_CCP nawalan|VBTS ng|CCB mga|DTCP magulang|NNC .|PMP
+kilala|JJD nila|PRP ang|DTC kalupitan|NNC at|CCA dahas|NNC .|PMP
+ngunit|CCT ngayo|NNC '|PMS y|FW natagpuan|VBTS na|CCP nila|PRP ang|DTC bagong|JJD_CCP tahanan|NNC ,|PMC ang|DTC bagong|JJD_CCP kakalingang|NNC_CCP pamilya|NNC .|PMP
+at|CCA natagpuan|VBTS nila|PRP ang|DTC isa|PRI '|PMS t|NNCA isa|PRI .|PMP
+unti-unting|RBD_CCP naglaho|RBD ang|DTC bangis|NNC ni|DTP daluyong|NNC sa|CCT bawat|PRI haplos|NNC sa|CCT kaniya|PRSP ng|CCB bata|NNC .|PMP
+ilang|PRQ_CCP oras|NNC silang|PRP_CCP nag-usap|VBTS na|CCP wari|RBM bang|RBM matagal|RBD nang|RBD magkaibigan|NNC .|PMP
+``|PMS matagal|JJD ka|PRS na|CCP niyang|PRS_CCP hinihintay|VBTR ,|PMC ''|PMS bulong|NNC ni|DTP aling|PRQ_CCP salvacion|NNC kay|DTP ugjab|NNP .|PMP
+hindi|RBF na|CCP tambakan|NNC ng|CCB basura|NNC ang|DTC bakuran|NNC ni|DTP aling|PRQ_CCP salvacion|NNC .|PMP
+hindi|RBF na|RBI rin|RBI ito|PRO tapunan|NNC ng|CCB mga|DTCP kuting|NNC .|PMP
+marami|PRI mang|RBI_CCP hiniram|VBOF na|CCP pusa|NNC ang|DTC hindi|RBF na|CCP naibalik|VBTS ,|PMC maligaya|JJD naman|RBI ang|DTC ating|PRSP_CCP mahal|JJD na|CCP librarian|NNC .|PMP
+sa|CCT kung|RBK anong|RBQ_CCP kalmot|NNC ng|CCB kapalaran|NNC ,|PMC batid|VBS niyang|PRS_CCP ang|DTC mga|DTCP dating|JJD_CCP sinagip|VBTS na|CCP pusa|NNC ay|LM siya|PRS na|CCP ngayong|RBW_CCP tagasagip|NNC sa|CCT sinumang|PRI_CCP nangangailangan|VBTR .|PMP
