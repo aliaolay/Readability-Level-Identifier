@@ -1,0 +1,95 @@
+kambal|NNC sina|DTPP anita|NNC at|CCA winona|NNC .|PMP
+sila|PRP ay|LM nakatira|VBTS sa|CCT barangay|NNC santa|NNC ana|NNC kasama|CCB ng|CCB kanilang|PRSP_CCP mga|DTCP magulang|NNC .|PMP
+parehong|JJC_CCP matalino|JJD at|CCA maganda|JJD .|PMP
+masipag|JJD mag-aral|VBW at|CCA maaasahan|VBW sa|CCT mga|DTCP gawaing-bahay|NNC sa|CCT edad|NNC na|CCP labing-isa|JJN .|PMP
+pareho|JJC nilang|PRP_CCP pangarap|NNC ang|DTC maging|VBW artista|NNC .|PMP
+apat|JJN na|CCP taon|NNC pa|RBI lamang|RBI ang|DTC kambal|NNC nang|RBW mahilig|VBW sa|CCT panonood|NNC ng|CCB mga|DTCP drama|NNC sa|CCT telebisyon|NNC at|CCA pelikula|NNC .|PMP
+tuwangtuwa|VBTR sila|PRP kapag|CCR bata|JJD ang|DTC bida|NNC ng|CCB palabas|NNC na|CCP kanilang|PRSP_CCP pinanonood|VBTR .|PMP
+madalas|RBW kasi|CCR nilang|PRP_CCP gayahin|VBTS ang|DTC pag-arte|NNC ng|CCB mga|DTCP iyon|PRO .|PMP
+palakpak|RBD at|CCA papuri|NNC naman|RBI ang|DTC ipinagkakaloob|VBTR ng|CCB kanilang|PRSP_CCP ama|NNC at|CCA ina|NNC .|PMP
+sa|CCT eskuwelahan|NNC ,|PMC naging|VBTS bantog|JJD din|RBI ang|DTC kambal|NNC sa|CCT larangan|NNC ng|CCB duladulaan|NNC .|PMP
+bagaman|CCT parehong|JJC_CCP mahusay|JJD ,|PMC si|DTP anita|NNC ang|DTC palaging|RBD_CCP nagiging|VBTR bida|NNC sa|CCT mga|DTCP palabas|NNC at|CCA drama|NNC .|PMP
+tuwangtuwa|VBTR naman|RBI si|DTP winona|FW kahit|CCT palagi|RBW lamang|RBI siyang|PRS_CCP ekstra|NNC .|PMP
+ang|DTC mahalaga|JJD raw|RBI ay|LM napapasama|VBTR siya|PRS sa|CCT listahan|NNC ng|CCB mga|DTCP nagsisiganap|VBTR .|PMP
+bagaman|CCT halos|JJD magkapareho|VBW ng|CCB hitsura|NNC at|CCA kinahihiligan|NNC ,|PMC magkaiba|VBAF ang|DTC ilang|PRQ_CCP asal|NNC ng|CCB kambal|NNC .|PMP
+malakas|JJD ang|DTC loob|NNC ni|DTP anita|NNC ,|PMC samantalang|CCT_CCP si|DTP winona|FW ay|LM mahiyain|JJD nang|RBD bahagya|RBD .|PMP
+may|VBH angking|NNC_CCP kayabangan|NNC si|DTP anita|NNC ,|PMC samantalang|CCT likas|JJD na|CCP mapagpakumbaba|JJD naman|RBI si|DTP winona|FW .|PMP
+``|PMS tama|JJD lamang|RBI naman|RBI na|CCP ako|PRS ang|DTC naging|VBTS bida|NNC sa|CCT `|NNC ang|DTC magandang|JJD_CCP prinsesa|NNC '|PMS ,|PMC hindi|RBF ba|RBI ,|PMC winona|FW ?|FW ''|PMS
+minsan|RBW ay|LM sambit|NNC ni|DTP anita|NNC nang|CCB mapili|VBW itong|PRO_CCP bida|NNC sa|CCT isang|PRI_CCP palabas|NNC sa|CCT eskuwela|NNC .|PMP
+``|PMS ako|PRS naman|RBI talaga|RBT ang|DTC pinakamaganda|JJCS_JJD sa|CCT hanay|NNC ng|CCB mga|DTCP nagpresenta|VBTR .|PMP ''|PMS
+``|PMS oo|RBT naman|RBI ,|PMC anita|NNC .|PMP
+ikaw|PRS ang|DTC pinakamagaling|JJCS_JJD at|CCA pinakamaganda|JJCS_JJD !|PMS ''|PMS
+pagsang-ayon|VBW naman|RBI ni|DTP winona|FW .|PMP
+kahit|CCT kailan|PRQ ay|LM hindi|RBF niya|PRS sinalungat|VBTS si|DTP anita|NNC .|PMP
+isang|PRI_CCP araw|NNC ,|PMC may|VBH nagpaskil|VBTS sa|CCT kanilang|PRSP_CCP eskuwelahan|NNC ng|CCB isang|PRI_CCP papel|NNC na|CCP paanyaya|NNC .|PMP
+ang|DTC awdisyon|NNC daw|RBI para|CCT sa|CCT dula-dulaang|JJD_CCP `|NNC ang|DTC anghel|NNC ng|CCB santa|NNC ana|NNC '|PMS ay|LM bukas|JJD na|RBI .|PMP
+ito|PRO ay|LM isang|PRI_CCP dula-dulaang|RBD_CCP ginaganap|VBTR taon-taon|RBW sa|CCT barangay|NNC santa|NNC ana|NNC .|PMP
+isang|PRI_CCP palabas|NNC na|CCP itinuturi|VBTR nang|RBD tradisyon|NNC at|CCA pamana|NNC ng|CCB mga|DTCP matatanda|NNC .|PMP
+ang|DTC maaari|VBS lamang|RBI mag-awdisyon|VBW para|CCT sa|CCT papel|NNC ng|CCB anghel|NNC ay|LM ang|DTC mga|DTCP batang|JJD_CCP babaeng|NNC_CCP nasa|RBL edad|NNC labing-isa|JJN hanggang|RBW labindalawa|CDB .|PMP
+tuwang-tuwa|JJD ang|DTC kambal|NNC nang|RBW mabasa|VBW ang|DTC naturang|VBTS_CCP paanyaya|NNC .|PMP
+``|FW winona|FW ,|PMC ito|PRO na|CCP ang|DTC hinihintay|VBTR ko|PRS .|PMP
+maaari|VBS na|CCP akong|PRS_CCP mag-awdisyon|VBW para|CCT gumanap|VBAF na|CCP anghel|NNC !|PMS
+tiyak|RBT kong|PRS_CCP ako|PRS ang|DTC mapipili|FW roon|PRL ,|PMC hindi|RBF ba|RBI ?|PMQ ''|PMS
+masayang|JJD_CCP sambit|NNC ni|DTP anita|NNC .|PMP
+ngumiti|VBAF naman|RBI si|DTP winona|FW .|PMP
+kumislap|VBAF ang|DTC mga|DTCP mata|NNC sa|CCT tuwa|NNC .|PMP
+``|PMS oo|RBT nga|RBI ,|PMC anita|NNC ,|PMC gusto|VBS ko|PRS ring|RBI_CCP subukang|RBD_CCP mag-awdisyon|VBW .|PMP
+pangarap|NNC ko|PRS rin|RBI kasing|JJCC gumanap|VBAF bilang|CCT anghel|NNC sa|CCT dula-dulaang|NNC_CCP iyon|PRO !|PMS ''|PMS
+kumunot|VBAF ang|DTC noo|NNC ni|DTP anita|NNC ,|PMC saka|CCA sumimangot|VBAF nang|RBD bahagya|RBD .|PMP
+``|PMS bakit|PRQ mo|PRS pa|RBI susubukan|VBTF ,|PMC gayong|PRO_CCP alam|VBS mo|PRS namang|RBI_CCP ako|PRS ang|DTC makukuha|VBTF roon|PRL ?|PMQ
+sumama|VBAF ka|PRS na|CCP lamang|RBI sa|CCT amin|PRSP ni|DTP mama|NNC sa|CCT awdisyon|NNC .|PMP
+panoorin|VBOF mo|PRS na|RBI lamang|RBI ako|PRS at|CCA palakpakan|NNC .|PMP ''|PMS
+walang|VBN_CCP nagawa|VBTS si|DTP winona|FW kundi|CCT ang|DTC sumangayon|VBAF sa|CCT suhestiyon|NNC ng|CCB kakambal|NNC .|PMP
+hindi|RBF niya|PRS ito|PRO kayang|CCR_CCP salungatin|VBOF sapagkat|CCR bukod|CCT sa|CCT magagalit|VBTF ito|PRO ,|PMC sa|CCT kanyang|PRSP_CCP palagay|NNC ay|LM ang|DTC kapatid|NNC ang|DTC tunay|JJD na|CCP mas|JJCC magaling|JJD .|PMP
+magpaparaya|VBAF na|RBI lamang|RBI siya|PRS kahit|CCT pa|RBI nga|RBI pangarap|NNC din|RBI niya|PRS ang|DTC maging|VBW bida|NNC sa|CCT `|NNC ang|DTC anghel|NNC ng|CCB santa|NNC ana|NNC '|PMS .|PMP
+``|PMS sige|FW ,|PMC anita|FW ,|PMC sasama|VBTF na|RBI lamang|RBI ako|PRS sa|CCT inyo|PRSP ni|DTP mama|NNC ,|PMC ''|PMS sabi|VBS na|CCP lamang|RBI niya|PRS .|PMP
+dumating|VBAF ang|DTC araw|NNC na|CCP pinakahihintay|JJCS_JJD ni|DTP anita|NNC .|PMP
+maaga|JJD pa|RBI lamang|RBI ay|LM nakapila|RBD na|CCP sila|PRP sa|CCT parke|NNC ng|CCB santa|NNC ana|NNC .|PMP
+sa|CCT entablado|NNC kasi|CCR nito|PRO gaganapin|VBTF ang|DTC awdisyon|NNC para|CCT sa|CCT magiging|VBTF bida|NNC ng|CCB dula-dulaan|NNC .|PMP
+katulad|JJC ng|CCB inaasahan|VBTR ,|PMC kasama|CCB niya|PRS ang|DTC ina|NNC at|CCA ang|DTC kakambal|JJD na|CCP si|DTP winona|FW .|PMP
+isa-isang|RBD_CCP tinawag|VBOF ang|DTC mga|DTCP batang|JJD_CCP babae|NNC mula|RBL sa|CCT mahabang|JJD_CCP pila|NNC .|PMP
+ikasampu|JJN si|DTP anita|NNC .|PMP
+bago|RBW sumalang|VBAF sa|CCT entablado|NNC ,|PMC suot|JJD na|RBI ng|CCB mga|DTCP batang|JJD_CCP magpipresenta|NNC ang|DTC kani-kanilang|PRSP_CCP artipisyal|JJD na|CCP kulay|NNC puting|JJD_CCP pakpak|NNC .|PMP
+labis|JJCS ang|DTC kaba|NNC ni|DTP winona|FW nang|CCB makitang|VBW_CCP si|DTP anita|NNC na|CCP ang|DTC sasalang|NNC sa|CCT entablado|NNC .|PMP
+``|PMS sana|VBS ay|LM hindi|RBF niya|PRS makalimutan|VBW ang|DTC mga|DTCP sasabihing|VBTF_CCP linya|NNC ,|PMC mama|NNC ,|PMC ''|PMS bulong|NNC niya|PRS sa|CCT ina|NNC .|PMP
+``|PMS oo|RBT nga|RBI ,|PMC anak|NNC .|PMP
+may|VBH kahabaan|NNC pa|RBI naman|RBI ang|DTC mga|DTCP iyon|PRO ,|PMC ''|PMS sagot|NNC naman|RBI ng|CCB ina|NNC .|PMP
+``|PMS ako|PRS ang|DTC anghel|NNC ng|CCB santa|NNC ana|NNC .|PMP
+ibinaba|VBTS mula|RBW sa|CCT langit|NNC upang|CCB ...|PMS ''|PMS napalunok|VBTS si|DTP anita|NNC .|PMP
+nanlamig|VBTS ang|DTC kanyang|PRSP_CCP mga|DTCP paa|NNC .|PMP
+ano|PRQ '|PMS t|NNCA bakit|PRQ bigla|RBD siyang|PRS_CCP kinabahan|VBTS ?|PMQ
+nakalimutan|RBD tuloy|JJD niya|PRS ang|DTC kasunod|JJD na|CCP linya|NNC .|PMP
+``|PMS u-upang|NNC_CCP ...|PMS ahm|FW ...|PMS ''|PMS nagpalinga-linga|VBTS siya|PRS .|PMP
+hinanap|VBTS ng|CCB mga|DTCP mata|NNC ang|DTC kanyang|PRSP_CCP ina|NNC at|CCA si|DTP winona|FW .|PMP
+umugong|VBAF ang|DTC mga|DTCP bulungan|NNC mula|RBL sa|CCT mga|DTCP manonood|NNC .|PMP
+nakadama|VBTS si|DTP anita|NNC ng|CCB pagkapahiya|NNC .|PMP
+dahil|CCR dito|PRL at|CCA dalidali|VBTS niyang|PRS_CCP tinanggal|VBOF ang|DTC suot|JJD na|CCP puting|JJD_CCP pakpak|NNC at|CCA saka|CCA tumakbong|VBAF_CCP pababa|RBD ng|CCB entablado|NNC .|PMP
+hindi|RBF na|RBI niya|PRS inalintana|VBTR ang|DTC pagtawag|NNC sa|CCT kanya|PRSP ng|CCB mga|DTCP hurado|NNC .|PMP
+nagtungo|VBTS siya|PRS sa|CCT isang|PRI_CCP mesa|NNC sa|CCT ilalim|JJD ng|CCB punong|JJD_CCP mangga|NNC at|CCA dito|PRL umiyak|VBAF nang|RBD malakas|JJD .|PMP
+maya-maya|RBW ay|LM naramdaman|VBTS niya|PRS ang|DTC pagdating|NNC ni|DTP winona|FW .|PMP
+nakita|VBTS niyang|PRS_CCP suot|JJD nito|PRO ang|DTC puting|JJD_CCP pakpak|NNC na|CCP kanyang|PRSP_CCP hinubad|VBOF .|PMP
+pumuwesto|VBAF ang|DTC kakambal|NNC malapit|JJD sa|CCT mesang|JJD_CCP kanyang|PRSP_CCP kinauupuan|JJD .|PMP
+hinawakan|VBOF nito|PRO ang|DTC isa|PRI niyang|PRS_CCP palad|NNC .|PMP
+``|PMS anita|NNC ,|PMC ako|PRS ang|DTC anghel|NNC ng|CCB santa|NNC ana|NNC ,|PMC ''|PMS saad|NNC ni|DTP winona|FW habang|RBW pinipigil|VBTR ang|DTC pagtawa|NNC .|PMP
+``|PMS huwag|RBF ka|PRS nang|RBW umiyak|VBAF ,|PMC batang|JJD_CCP maganda|JJD .|PMP
+hindi|RBF naman|RBI dito|PRL natatapos|VBTR ang|DTC iyong|PRSP_CCP pangarap|NNC na|CCP maging|VBW artista|NNC .|PMP
+maaari|VBS ka|PRS pa|RBI ring|RBI_CCP mag-awdisyon|VBW sa|CCT susunod|VBTF na|CCP taon|NNC ,|PMC hindi|RBF ba|RBI ?|PMQ
+itigil|VBOF mo|PRS na|RBI ang|DTC pag-iyak|VBW dahil|CCR papangit|VBTF ka|PRS .|PMP ''|PMS
+nang|RBW dahil|CCR sa|CCT mga|DTCP narinig|VBTS mula|RBL sa|CCT kakambal|NNC ,|PMC ang|DTC pag-iyak|VBW ni|DTP anita|NNC ay|LM napalitan|VBTS ng|CCB pagtawa|NNC .|PMP
+hanggang|RBW sa|CCT gumaan|VBAF ang|DTC kanyang|PRSP_CCP pakiramdam|NNC .|PMP
+niyakap|VBTS niya|PRS nang|RBW mahigpit|JJD ang|DTC kapatid|NNC .|PMP
+``|PMS tama|RBT ka|PRS ,|PMC winona|FW ,|PMC sa|CCT susunod|VBTF na|CCP taon|NNC na|CCP lamang|RBI ako|PRS babawi|VBTF .|PMP
+naiintindihan|VBTR ko|PRS na|CCP ngayon|RBW .|PMP
+hindi|RBF pala|NNC sa|CCT lahat|PRI ng|CCB pagkakataon|NNC ay|LM ako|PRS ang|DTC pinakamaganda|JJCS_JJD at|CCA pinakamagaling|JJCS_JJD ,|PMC ''|PMS sabi|VBS niya|PRS .|PMP
+napatuon|VBTS ang|DTC pansin|NNC ni|DTP anita|NNC sa|CCT suot|JJD na|CCP pakpak|NNC ni|DTP winona|FW .|PMP
+sumilay|VBAF ang|DTC ngiti|NNC sa|CCT kanyang|PRSP_CCP mga|DTCP labi|NNC at|CCA kumislap|NNC ang|DTC mga|DTCP mata|NNC .|PMP
+``|FW winona|FW ,|PMC halika|NNC .|PMP ''|PMS
+hinatak|VBTS niya|PRS ang|DTC kanang|JJD_CCP bisig|NNC ng|CCB kakambal|NNC .|PMP
+``|PMS pumaroon|VBAF tayo|PRP sa|CCT entablado|NNC at|CCA mag-awdisyon|VBW ka|PRS !|PMQ
+bagay|JJD na|CCP bagay|NNC sa|CCT iyo|PRSP ang|DTC pakpak|NNC na|CCP iyan|PRO at|CCA naniniwala|VBTR akong|PRS_CCP mahusay|RBD ka|PRS .|PMP ''|PMS
+hindi|RBF na|RBI nagdalawang-isip|VBTR pa|RBI si|DTP winona|FW .|PMP
+nagtungo|VBTS nga|RBI siya|PRS sa|CCT pinakahuli|JJCS_JJD ng|CCB pila|NNC at|CCA inihanda|VBTS ang|DTC sarili|NNC sa|CCT pagpresenta|NNC .|PMP
+tuwang-tuwa|JJD naman|RBI ang|DTC kanilang|PRSP_CCP ina|NNC .|PMP
+at|CCA nang|RBW matapos|VBW ang|DTC awdisyon|NNC ,|PMC si|DTP winona|FW nga|RBI ang|DTC napiling|RBD_CCP gaganap|VBTF bilang|CCT anghel|NNC ng|CCB santa|NNC ana|NNC .|PMP
+maligayang-maligaya|VBW si|DTP anita|NNC .|PMP
+hindi|RBF man|RBI napunta|VBTS sa|CCT kanya|PRSP ang|DTC papel|NNC ng|CCB pagiging|VBTR bida|NNC sa|CCT dula-dulaang|NNC_CCP iyon|PRO ,|PMC ang|DTC napili|VBTS naman|RBI ay|LM ang|DTC totoong|RBT_CCP anghel|NNC ng|CCB buhay|NNC niya|PRS -|PMS si|DTP winona|FW .|PMP

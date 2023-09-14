@@ -1,0 +1,99 @@
+ang|DTC lumang|JJD_CCP dyip|NNC ni|DTP tatay|NNC ang|DTC kauna-unahang|JJD_CCP dyip|NNC sa|CCT barangay|NNC pastol|NNC .|PMP
+sinasabing|VBTR_CCP walang|VBN_CCP taga-pastol|NNC ang|DTC `|NNCA di|RBF nakakikilala|VBTR at|CCA `|PMS di|RBF pa|RBI nakasasakay|VBTS sa|CCT dyip|NNC ni|DTP tatay|NNC .|PMP
+walang|VBN_CCP bata|NNC sa|CCT aming|PRSP_CCP lugar|NNC ang|DTC bininyagan|VBOF at|CCA magkasintahang|NNC_CCP nagkatuluyan|VBTR at|CCA ikinasal|VBOF na|CCP `|PMS di|RBF inihatid|VBTS ng|CCB dyip|NNC ni|DTP tatay|NNC sa|CCT simbahan|NNC .|PMP
+walang|VBN_CCP nagtapos|VBTS ng|CCB pag-aaral|NNC sa|CCT barangay|NNC pastol|NNC ang|DTC `|NNCA di|RBF inihatid|VBTS ng|CCB dyip|NNC ni|DTP tatay|NNC sa|CCT paaralan|NNC .|PMP
+saksi|NNC rin|RBI ang|DTC dyip|NNC ni|DTP tatay|NNC sa|CCT mga|DTCP pag-alis|NNC at|CCA pag-uwi|NNC ng|CCB mga|DTCP taga-pastol|NNC ,|PMC sa|CCT malalakas|JJD na|CCP tawanan|NNC ng|CCB mga|DTCP matagal|JJD na|CCP `|PMS di|RBF nagkita|VBTS ,|PMC maging|VBW sa|CCT mga|DTCP hagulgol|NNC ng|CCB mga|DTCP naiwang|VBTS_CCP kaanak|NNC ng|CCB mga|DTCP taga-pastol|NNC na|CCP magtatrabaho|VBTF sa|CCT ibang|PRI_CCP bansa|NNC .|PMP
+mahusay|JJD na|CCP tsuper|NNC ang|DTC aking|PRSP_CCP tatay|NNC .|PMP
+sabi|VBS nga|RBI ng|CCB mga|DTCP taga-pastol|NNC ,|PMC mas|JJCC gusto|VBS nila|PRP ang|DTC swabe|FW niyang|PRS_CCP pagmamaneho|NNC kaysa|JJC sa|CCT walang-ingat|JJN at|CCA padaskul-daskol|JJD na|CCP pagmamaneho|NNC ng|CCB iba|PRI .|PMP
+siguradung-sigurado|JJD raw|RBI silang|PRP_CCP makararating|VBTF sila|PRP sa|CCT kanilang|PRSP_CCP paroroonan|PRL nang|RBW buhay|NNC o|CCT humihinga|VBTR_VBAF pa|RBI .|PMP
+tamang-tama|JJD ang|DTC busina|NNC ng|CCB dyip|NNC ni|DTP tatay|NNC at|CCA banayad|JJD na|CCP banayad|JJD din|RBI kung|CCR tapakan|VBTF niya|PRS ang|DTC preno|NNC .|PMP
+nakasisingit|VBTS siya|PRS kahit|CCT sa|CCT masisikip|JJD na|CCP daan|NNC nang|CCB walang|VBN_CCP gasgas|JJD o|CCT anumang|PRI_CCP daplis|NNC ang|DTC dyip|NNC .|PMP
+`|PMS di|RBF ko|PRS rin|RBI nakitang|VBTS_CCP uminit|VBAF ang|DTC kanyang|PRSP_CCP ulo|NNC sa|CCT pagmamaneho|NNC .|PMP
+kaya|CCR naging|VBTS sukatan|NNC ng|CCB isang|PRI_CCP mahusay|JJD na|CCP tsuper|NNC ang|DTC aking|PRSP_CCP tatay|NNC sa|CCT buong|PRI_CCP barangay|NNC pastol|NNC .|PMP
+``|PMS aba|FW '|PMS y|FW kung|CCR dyip|RBM ni|DTP mang|RBI_CCP tomas|NNC ang|DTC iyong|PRSP_CCP aarkilahin|VBTF ,|PMC wala|VBN kang|PRS_CCP magiging|VBTF problema|NNC ,|PMC ''|PMS minsa|FW '|PMS y|FW narinig|VBTS ko|PRS sa|CCT umpukan|NNC ng|CCB mga|DTCP tao|NNC sa|CCT gulod|NNC .|PMP
+``|PMS kung|CCR dyip|RBM ni|DTP mang|RBI_CCP tomas|NNC ang|DTC maghahatid|VBW ,|PMC aba|FW '|PMS y|FW sasama|FW ako|PRS dahil|CCR tiyak|RBT kong|PRS_CCP `|PMS di|RBF ako|PRS magkakandahilo|VBTR ,|PMC ''|PMS ang|DTC dinig|VBS ko|PRS kay|DTP lola|NNC kadyang|NNC .|PMP
+``|PMS kung|CCR `|PMS di|RBF mo|PRS alam|VBS kung|RBK saan|RBQ `|PMS yon|PRO ,|PMC arkilahin|VBTF mo|PRS si|DTP mang|RBI_CCP tomas|NNC ,|PMC parang|CCT mapa|NNC ang|DTC utak|NNC ng|CCB taong|NNC_CCP `|NNC yon|PRO ,|PMC ''|PMS ang|DTC dinig|VBOF ko|PRS sa|CCT isang|PRI_CCP barbero|NNC habang|RBW nagpapagupit|VBTR ako|PRS .|PMP
+may|VBH mga|DTCP mag-asawang|NNC_CCP tagapastol|NNC din|RBI ang|DTC nagsasabing|VBTR_CCP naging|VBTS masuwerte|JJD sa|CCT kanilang|PRSP_CCP pagsisimula|NNC bilang|CCT mag-asawa|NNC ang|DTC lumang|JJD_CCP dyip|NNC ni|DTP tatay|NNC .|PMP
+alagang-alaga|JJD ni|DTP tatay|NNC ang|DTC dyip|NNC .|PMP
+kahit|CCT luma|JJD na|CCP ito|PRO ,|PMC tiyak|JJD na|CCP dadaigin|VBTF pa|RBI nito|PRO ang|DTC pinakamahal|JJCS_JJD o|CCT pinakabagong|JJCS_JJD_CCP sasakyan|NNC .|PMP
+sa|CCT isang|PRI_CCP ingit|NNC o|CCT lagutok|NNC lang|RBI ,|PMC alam|VBS agad|RBW ni|DTP tatay|NNC kung|CCR may|VBH sira|JJD ang|DTC dyip|NNC .|PMP
+`|PMS di|RBF rin|RBI ito|PRO nakalilimutang|VBTS_CCP linisin|VBOF ni|DTP tatay|NNC kung|CCR araw|NNC ng|CCB linggo|NNC .|PMP
+``|PMS masuwerte|JJD na|CCP sa|CCT atin|PRSP ang|DTC dyip|NNC na|CCP `|PMS to|FW ,|PMC ''|PMS ang|DTC sabi|VBS sa|CCT akin|PRSP ni|DTP tatay|NNC habang|RBW iniisis|VBTR niya|PRS ang|DTC tapalodo|NNC ng|CCB dyip|NNC .|PMP
+``|PMS kung|CCR `|PMS di|RBF ba|RBI dahil|CCR sa|CCT dyip|NNC na|CCP ito|PRO ,|PMC mapagtatapos|VBW ko|PRS ba|RBI ang|DTC iyong|PRSP_CCP ate|NNC ?|PMQ
+mapag-aaral|VBW ko|PRS ba|RBI ang|DTC iyong|PRSP_CCP kuya|NNC sa|CCT maynila|NNC ?|PMQ
+pagbutihin|VBOF mo|PRS rin|RBI ang|DTC iyong|PRSP_CCP pag-aaral|NNC ,|PMC ang|DTC makatapos|VBW lang|RBI kayo|PRP ng|CCB pag-aaral|NNC ang|DTC tanging|JJD_CCP maipapamana|VBW ko|PRS sa|CCT inyong|PRSP_CCP magkakapatid|NNC ,|PMC ''|PMS dagdag|JJD pa|RBI ni|DTP tatay|NNC .|PMP ''|PMS
+`|PMS pag|CCR bagong|JJD_CCP paligo|NNC ang|DTC dyip|NNC ,|PMC parang|CCT nadaragdagan|VBTR ang|DTC tibay|NNC at|CCA tulin|NNC nito|PRO ,|PMC ''|PMS parating|RBW sinasabi|VBTR sa|CCT akin|PRSP ni|DTP tatay|NNC .|PMP
+``|PMS poging-pogi|FW `|FW tay|FW ang|DTC dyip|FW natin|PRP !|PMS ''|PMS
+ang|DTC nasabi|VBTS ko|PRS kay|DTP tatay|NNC .|PMP
+``|PMS s|NNCA `|PMS yempre|FW ,|PMC sa|CCT 'n|NNC pa|RBI ba|RBI magmamana|VBTF `|RBI_CCP yan|PRO kundi|CCT sa|CCT ating|PRSP_CCP dalawa|CDB ?|FW ''|PMS
+ang|DTC sagot|NNC ni|DTP tatay|NNC .|PMP
+`|PMS di|RBF maubus-ubos|JJD ang|DTC malakas|JJD na|CCP tawanan|NNC namin|PRP ni|DTP tatay|NNC madalas|RBD akong|PRS_CCP sumama|VBAF kay|DTP tatay|NNC sa|CCT pagpasada|NNC ng|CCB dyip|NNC ,|PMC lalo|JJCC na|CCP kung|CCR sabado|JJD at|CCA linggo|NNC o|CCT kung|CCR bakasyon|NNC .|PMP
+ako|PRS ang|DTC tagakuha|NNC ng|CCB bayad|NNC ng|CCB mga|DTCP pasahero|NNC at|CCA tagasukli|NNC .|PMP
+at|CCA kung|CCR nasa|RBL paradahan|NNC naman|RBI kami|PRP at|CCA naghihintay|VBTR ng|CCB mga|DTCP pasahero|NNC ,|PMC `|PMS di|RBF ko|PRS nakalilimutang|VBTS_CCP kalangan|JJD ng|CCB bato|NNC ang|DTC gulong|NNC at|CCA punasan|NNC ang|DTC mga|DTCP side|FW mirror|FW ng|CCB dyip|NNC .|PMP
+sinisigurado|VBTR ko|PRS ring|RBI_CCP nalagyan|VBTS ko|PRS ng|CCB tubig|NNC ang|DTC radiator|NNC .|PMP
+kapag|CCR pumasada|VBAF na|CCP kami|PRP ni|DTP tatay|NNC ,|PMC walang|VBN_CCP anumang|PRI_CCP aberya|NNC .|PMP
+lahat|PRI ng|CCB pasahero|NNC ay|LM nakauuwi|VBTS sa|CCT kani-kanilang|PRSP_CCP mga|DTCP bahay|NNC .|PMP
+lahat|PRI ay|LM nakakapunta|VBTR sa|CCT kanilang|PRSP_CCP mga|DTCP pupuntahan|NNC .|PMP
+dahil|CCR laging|RBD_CCP puno|JJD ng|CCB pasahero|NNC ang|DTC dyip|NNC ni|DTP tatay|NNC at|CCA madalas|JJD may|VBH sabit|JJD pa|RBI ,|PMC sinasabi|VBTR rin|RBI nga|RBI ng|CCB mga|DTCP taga-pastol|NNC ,|PMC lahat|PRI daw|RBI ng|CCB hawakan|VBOF ni|DTP tatay|NNC may|VBH suwerte|NNC .|PMP
+naisip|VBTS ko|PRS ,|PMC kaya|CCR pala|NNC malalago|VBW '|PMS t|NNCA marami|PRI ring|RBI_CCP mamunga|VBW ang|DTC kanyang|PRSP_CCP mga|DTCP tanim|NNC na|CCP mangga|NNC ,|PMC santol|NNC ,|PMC atis|NNC ,|PMC kaymito|NNC ,|PMC pakwan|NNC ,|PMC chico|NNC at|CCA banaba|NNC !|PMS
+tali-tali|JJD at|CCA bungkus-bungkos|JJD lagi|RBW ang|DTC kanyang|PRSP_CCP mga|DTCP inaaning|VBTR_CCP sitaw|NNC ,|PMC okra|NNC ,|PMC ampalaya|NNC at|CCA iba|PRI pang|RBI_CCP gulay|NNC !|PMS
+kaya|CCR pala|NNC matataba|VBTF '|PMS t|NNCA `|PMS di|RBF sakitin|VBOF ang|DTC kanyang|PRSP_CCP mga|DTCP alagang|JJD_CCP hayop|NNC ,|PMC tulad|JJC ng|CCB kalabaw|NNC ,|PMC baka|NNC ,|PMC kambing|NNC ,|PMC baboy|NNC ,|PMC aso|NNC ,|PMC pabo|NNC at|CCA manok|NNC !|PMS
+``|PMS may|VBH taglay|JJD nga|RBI kayang|RBD_CCP pambihirang|JJD_CCP madyik|VBW ang|DTC mga|DTCP kamay|NNC ni|DTP tatay|NNC ?|PMQ
+bakit|PRQ lahat|PRI ng|CCB kanyang|PRSP_CCP hawakan|JJD ,|PMC napaki-kinabangan|VBTS ?|PMQ
+bakit|PRQ lahat|PRI ng|CCB kanyang|PRSP_CCP itanim|VBOF ,|PMC nabubuhay|VBTR at|CCA hitik|JJD kung|CCR mamunga|VBW ?|PMQ
+bakit|PRQ lahat|PRI ng|CCB kanyang|PRSP_CCP alagang|JJD_CCP hayop|NNC ,|PMC dumarami|VBTR_VBAF ?|PMQ ''|PMS
+ang|DTC sunud-sunod|JJD kong|PRS_CCP tanong|NNC sa|CCT aking|PRSP_CCP sarili|NNC .|PMP
+isang|PRI_CCP hapon|NNC ,|PMC may|VBH ikinuwento|VBTS_VBOF sa|CCT akin|PRSP si|DTP tatay|NNC .|PMP
+``|PMS alam|VBS mo|PRS ba|RBI kung|RBK bakit|RBQ suwerte|JJD ang|DTC ating|PRSP_CCP dyip|NNC ?|PMQ
+noong|RBW_CCP disyembre|FW 16|CDB ,|PMC 1999|CDB ,|PMC alas-kwatro|JJD ng|CCB madaling-araw|RBW ,|PMC isang|PRI_CCP malusog|JJD na|CCP sanggol|NNC na|CCP lalaki|NNC ang|DTC ipinanganak|VBTS sa|CCT ating|PRSP_CCP lumang|JJD_CCP dyip|NNC .|PMP ''|PMS
+``|PMS talaga|RBT `|PMS tay|NNCA ?|PMQ ''|PMS
+``|PMS oo|RBT ,|PMC noon|RBW ay|LM simula|RBW ng|CCB simbang|JJD_CCP gabi|NNC .|PMP
+papunta|RBD kami|PRP sa|CCT simbahan|NNC pero|CCT biglang|RBD_CCP sumakit|VBAF ang|DTC tiyan|NNC ng|CCB babaeng|JJD_CCP sakay|NNC ko|PRS .|PMP
+pero|CCT `|CDB di|RBF pa|RBI kami|PRP nakararating|VBTR sa|CCT ospital|NNC ,|PMC lumabas|VBAF na|RBI ang|DTC bata|NNC .|PMP
+kaya|CCR iyak|NNC ng|CCB isang|PRI_CCP sanggol|NNC na|CCP lalaki|NNC ang|DTC narinig|VBTS ko|PRS noong|RBW_CCP unang|JJN_CCP simbang|NNC_CCP gabi|RBW ,|PMC ''|PMS kuwento|NNC ni|DTP tatay|NNC .|PMP
+``|PMS alam|VBS mo|PRS ba|RBI kung|RBK sino|RBQ ang|DTC babaeng|NNC_CCP tinutukoy|VBTR ko|PRS ?|PMQ
+at|CCA kung|RBK sino|RBQ ang|DTC sanggol|NNC na|CCP kanyang|PRSP_CCP ipinanganak|VBTS ?|PMQ
+wala|VBN ka|PRS bang|RBI_CCP naaalala|VBTR sa|CCT petsa|NNC ng|CCB kapanganakan|NNC ng|CCB sanggol|NNC ?|PMQ ''|PMS
+ang|DTC sunud-sunod|JJD na|CCP tanong|NNC ni|DTP tatay|NNC .|PMP
+nasabik|VBTS ako|PRS sa|CCT susunod|VBTF na|CCP kuwento|NNC ni|DTP tatay|NNC .|PMP
+``|PMS ikaw|PRS ang|DTC sanggol|NNC na|CCP iyon|PRO na|CCP ipinanganak|VBTS sa|CCT ating|PRSP_CCP lumang|JJD_CCP dyip|NNC .|PMP
+ibinigay|VBTS ka|PRS sa|CCT amin|PRSP ng|CCB diyos|NNC sa|CCT unang|JJN_CCP simbang|JJD_CCP gabi|NNC .|PMP ''|PMS
+kaya|CCR pala|NNC kapareho|JJC ng|CCB kaarawan|NNC ko|PRS ang|DTC kaarawan|NNC ng|CCB sanggol|NNC na|CCP ikinukuwento|VBTR ni|DTP tatay|NNC .|PMP
+``|PMS pero|CCT `|PMS di|RBF naging|VBTS madali|RBD para|CCT sa|CCT iyong|PRSP_CCP nanay|NNC ang|DTC kanyang|PRSP_CCP pagbubuntis|NNC .|PMP
+kahit|CCT alam|VBS niyang|PRS_CCP delikado|JJD sa|CCT kanyang|PRSP_CCP kalagayan|NNC ,|PMC gusto|VBS niyang|PRS_CCP maipanganak|VBW ka|PRS .|PMP
+ikaw|PRS ang|DTC pinakamagandang|JJCS_JJD_CCP regalong|NNC_CCP aming|PRSP_CCP natanggap|VBTS .|PMP
+iyon|PRO ang|DTC gabing|RBW_CCP ibinigay|VBOF ka|PRS sa|CCT amin|PRSP ng|CCB diyos|NNC at|CCA iyon|PRO din|RBI ang|DTC gabing|RBW_CCP kinuha|VBOF na|CCP niya|PRS ang|DTC iyong|PRSP_CCP nanay|NNC .|PMP
+ibinilin|VBOF ka|PRS sa|CCT akin|PRSP ng|CCB iyong|PRSP_CCP nanay|NNC ,|PMC ''|PMS biglang|RBD_CCP nangatal|VBTS ang|DTC boses|NNC ni|DTP tatay|NNC .|PMP
+``|PMS suwerte|JJD raw|RBI ang|DTC sasakyan|NNC `|PMS pag|CCR may|VBH sanggol|NNC na|CCP ipinanganak|VBTS sa|CCT loob|NNC nito|PRO .|PMP
+dahil|CCR sa|CCT bagong|JJD_CCP buhay|NNC na|CCP isinilang|VBTS ,|PMC nagiging|VBTR mahaba|JJD at|CCA ligtas|JJD ang|DTC buhay|NNC ng|CCB mga|DTCP sakay|NNC nito|PRO .|PMP
+ikaw|PRS ,|PMC bunso|NNC ,|PMC ang|DTC suwerte|NNC sa|CCT ating|PRSP_CCP pamilya|NNC .|PMP ''|PMS
+kaya|CCR pala|NNC ganoon|PRC na|RBI lang|RBI ang|DTC pag-aalaga|NNC ni|DTP tatay|NNC sa|CCT lumang|JJD_CCP dyip|NNC .|PMP
+sa|CCT bawat|PRI pagpasada|NNC ni|DTP tatay|NNC ,|PMC sumasarap|VBTR_VBAF lagi|RBW ang|DTC aming|PRSP_CCP ulam|NNC ,|PMC nakapag-aaral|RBD kaming|PRP_CCP magkakapatid|NNC ,|PMC nabibili|VBTS nina|DTPP ate|FW perla|FW at|CCA kuya|NNC nonon|NNC ang|DTC mga|DTCP librong|NNC_CCP kailangan|VBS nila|PRP at|CCA tuwing|RBW may|VBH kaarawan|NNC sa|CCT amin|PRSP ,|PMC `|NNCA di|RBF rin|RBI nawawala|VBTR ang|DTC munting|JJD_CCP handa|JJD .|PMP
+kaya|CCR pala|NNC hitik|JJD kung|CCR mamunga|VBW ang|DTC kanyang|PRSP_CCP mga|DTCP tanim|NNC .|PMP
+kaya|CCR pala|NNC maaamo|JJD '|PMS t|NNCA napakiki-nabangan|VBTS ang|DTC mga|DTCP alaga|NNC niyang|PRS_CCP hayop|NNC .|PMP
+kaya|CCR pala|NNC hinding-hindi|RBF ko|PRS naramdamang|VBTS_CCP wala|VBN na|CCP akong|PRS_CCP nanay|NNC dahil|CCR inalagaan|VBTS kaming|PRP_CCP mabuti|JJD ni|DTP tatay|NNC .|PMP
+``|PMS kaya|CCR anak|NNC ,|PMC `|PMS pag|CCR tinanong|VBOF ng|CCB titser|FW mo|PRS kung|RBK saan|RBQ ang|DTC lugar|NNC ng|CCB iyong|PRSP_CCP kapanganakan|NNC ,|PMC sabihin|VBOF mong|PRS_CCP sa|CCT ating|PRSP_CCP lumang|JJD_CCP dyip|NNC ka|PRS ipinanganak|VBTS ,|PMC ''|PMS pagbibiro|VBW pa|RBI ni|DTP tatay|NNC habang|RBW ginugulugulo|VBTR niya|PRS ang|DTC aking|PRSP_CCP buhok|NNC .|PMP
+astig|RBD talaga|RBT ang|DTC aking|PRSP_CCP tatay|NNC !|PMS
+isang|PRI_CCP sabadong|JJD_CCP rest|FW day|FW ni|DTP tatay|NNC ,|PMC sumakay|VBAF ako|PRS sa|CCT lumang|JJD_CCP dyip|NNC .|PMP
+umupo|VBAF ako|PRS sa|CCT kanyang|PRSP_CCP malambot|JJD na|CCP upuan|NNC at|CCA ginaya|VBOF ko|PRS kung|RBK paano|RBQ niya|PRS hinahawakan|VBTR ang|DTC manibela|NNC ng|CCB dyip|NNC .|PMP
+pinindot|VBTR ko|PRS ang|DTC busina|NNC .|PMP
+ibinaling|VBOF ko|PRS ang|DTC manibela|NNC sa|CCT kanan|JJD ,|PMC pagkatapos|VBW sa|CCT kaliwa|JJD .|PMP
+bumusina|VBTR_VBAF uli|RBW ako|PRS .|PMP
+tumingin|VBAF ako|PRS sa|CCT side|FW mirror|FW .|PMP
+nagpreno|VBTS .|PMP
+pumarada|VBAF .|PMP
+balang-araw|RBW gusto|VBS kong|PRS_CCP maging|VBW isang|PRI_CCP mahusay|JJD na|CCP tsuper|NNC tulad|JJC ni|DTP tatay|NNC .|PMP
+gusto|VBS kong|PRS_CCP ihatid|VBOF ang|DTC mga|DTCP tao|NNC sa|CCT kanilang|PRSP_CCP pupuntahan|NNC .|PMP
+gusto|VBS kong|PRS_CCP sunduin|VBOF ang|DTC mga|DTCP tao|NNC pauwi|NNC sa|CCT barangay|NNC pastol|NNC .|PMP
+gusto|VBS kong|PRS_CCP salubungin|VBOF ang|DTC mga|DTCP taga-pastol|NNC na|CCP nagpunta|VBTS sa|CCT ibang|PRI_CCP bansa|NNC .|PMP
+gusto|VBS kong|PRS_CCP pakinggan|VBOF ang|DTC magagandang|JJD_CCP kuwento|NNC at|CCA halakhakan|NNC ng|CCB mga|DTCP magkakapamilyang|NNC_CCP matagal|JJD na|CCP `|PMS di|RBF nagkita|VBTS .|PMP
+gusto|VBS kong|PRS_CCP mapuntahan|VBW ang|DTC malalayong|JJD_CCP lugar|NNC nang|RBW ligtas|JJD at|CCA mabilis|JJD .|PMP
+gusto|VBS kong|PRS_CCP patuloy|RBD na|CCP maging|VBW saksi|NNC ang|DTC dyip|NNC ni|DTP tatay|NNC sa|CCT masasayang|JJD_CCP okasyon|NNC ,|PMC tulad|JJC ng|CCB kasal|NNC ,|PMC binyag|NNC ,|PMC ng|CCB mga|DTCP pagtatapos|NNC ng|CCB pag-aaral|NNC at|CCA iba|PRI pa|RBI .|PMP
+hinawakan|VBOF kong|PRS_CCP mabuti|JJD ang|DTC manibela|NNC ng|CCB dyip|NNC .|PMP
+sana|VBS '|PMS y|FW magkatotoo|VBW ang|DTC aking|PRSP_CCP mga|DTCP pangarap|NNC .|PMP
+bigla|CCT '|PMS y|FW parang|CCT malayung-malayo|JJD na|CCP nga|RBI ang|DTC aking|PRSP_CCP nabiyahe|VBTS .|PMP
+at|CCA sa|CCT aking|PRSP_CCP pagkakahawak|NNC sa|CCT manibela|NNC at|CCA pagkakaupo|NNC sa|CCT malambot|JJD ng|CCB upuan|NNC ni|DTP tatay|NNC ,|PMC naramdaman|VBTS kong|PRS_CCP tila|RBM hawak|JJD na|CCP rin|RBI ni|DTP tatay|NNC ang|DTC aking|PRSP_CCP mga|DTCP kamay|NNC at|CCA yakap|NNC naman|RBI ako|PRS nang|RBW mahigpit|JJD ni|DTP nanay|NNC .|PMP
+kay|DTP sarap|NNC ng|CCB aking|PRSP_CCP pakiramdam|NNC .|PMP
+ligtas|JJD na|CCP ligtas|NNC ako|PRS .|PMP
+alam|VBS kong|PRS_CCP lagi|RBW nila|PRP akong|PRS_CCP gagabayan|VBTF sa|CCT mga|DTCP daang|NNC_CCP aking|PRSP_CCP pipiliing|JJD_CCP daanan|NNC .|PMP
+-LRB-|NNPA para|CCT kay|DTP mang|RBI_CCP tomas|NNC ,|PMC ang|DTC aking|PRSP_CCP mahal|JJD na|CCP tatay|NNC ,|PMC ang|DTC pinakamagaling|JJCS_JJD na|CCP tsuper|NNC sa|CCT buong|PRI_CCP mundo|NNC .|PMP -RRB-|NNPA

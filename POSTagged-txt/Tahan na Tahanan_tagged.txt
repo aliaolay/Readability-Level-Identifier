@@ -1,0 +1,68 @@
+isang|PRI_CCP araw|NNC ,|PMC may|VBH ibinalita|VBTS sa|CCT akin|PRSP si|DTP nanay|NNC .|PMP
+ang|DTC sabi|VBS niya|PRS ,|PMC ``|CDB anak|NNC ,|PMC tayo|PRP ay|LM maglilipat-bahay|VBW !|PMS ''|PMS
+mas|JJCC malaki|JJD ,|PMC mas|JJCC maganda|JJD ,|PMC mas|JJCC magara|JJD ,|PMC mas|JJCC makulay|JJD .|PMP
+ganyan|PRC daw|RBI ang|DTC bagong|JJD_CCP tirahang|NNC_CCP sa|CCT amin|PRSP ay|LM naghihintay|VBTR .|PMP
+wow|FW !|PMS
+ako|PRS ay|LM lubhang|JJCS_CCP nasorpresa|VBTS at|CCA nagalak|VBTS .|PMP
+napatalon|VBTS pa|RBI nga|RBI ako|PRS sa|CCT tuwa|NNC at|CCA pumalakpak|VBAF .|PMP
+naisip|VBTS ko|PRS ,|PMC ito|PRO '|PMS y|FW isang|PRI_CCP nakakasabik|VBTR na|CCP kabanata|NNC ;|PMSC para|CCT sa|CCT akin|PRSP at|CCA sa|CCT aming|PRSP_CCP malaking|JJD_CCP pamilya|NNC .|PMP
+pero|CCT ,|PMC teka|NNC !|PMS
+bigla|JJD naman|RBI akong|PRS_CCP natigilan|VBTS .|PMP
+ilang|PRQ_CCP tanong|NNC ang|DTC pumasok|VBAF sa|CCT aking|PRSP_CCP murang|JJD_CCP isipan|NNC .|PMP
+madadala|VBTF kaya|CCR namin|PRP ang|DTC lahat|PRI ng|CCB kagamitan|NNC ?|PMQ
+wala|VBN kayang|RBD_CCP importanteng|JJD_CCP maiiwanan|VBW ?|PMQ
+makakasama|VBTF ba|RBI ang|DTC lahat|PRI ng|CCB kapamilya|NNC ko|PRS ?|PMQ
+`|PMS di|RBF kaya|CCR mahirap|JJD puntahan|VBOF `|PMS yun|PRO at|CCA masyadong|JJCS_CCP malayo|JJD ?|PMQ
+at|CCA paano|PRQ na|CCP kaya|CCR ang|DTC aking|PRSP_CCP mga|DTCP kaibigan|NNC ?|PMQ
+`|PMS di|RBF kaya|CCR sila|PRP maligaw|VBW patungo|RBL sa|CCT bagong|JJD_CCP tirahan|NNC ?|PMQ
+may|VBH hardin|NNC din|RBI kaya|CCR sa|CCT aming|PRSP_CCP lilipatan|NNC ?|PMQ
+meron|VBH din|RBI bang|RBI_CCP nakakaaliw|VBTR na|CCP palaruan|NNC ?|PMQ
+marami|PRI rin|RBI kayang|RBD_CCP lugar|NNC na|CCP puwedeng|RBT_CCP pasyalan|NNC ?|PMQ
+maibibigay|VBTF ba|RBI nito|PRO lahat|PRI ng|CCB aming|PRSP_CCP kailangan|VBS ?|PMQ
+sinulyapan|VBTR ko|PRS ang|DTC aming|PRSP_CCP bahay|NNC ,|PMC nilibot|VBTS ang|DTC bawat|PRI bahagi|NNC .|PMP
+dito|PRL ako|PRS isinilang|VBTS ,|PMC nagkaisip|VBTS ,|PMC natuto|VBTS ,|PMC lumaki|VBAF .|PMP
+dito|PRL ko|PRS nadama|VBTS ang|DTC saya|NNC at|CCA pagmamahalan|NNC .|PMP
+dito|PRL ko|PRS naranasan|VBTS ang|DTC damayan|NNC at|CCA pagbibigayan|NNC .|PMP
+ilang|PRQ_CCP bagyo|NNC na|CCP rin|RBI ang|DTC kanyang|PRSP_CCP pinagdaanan|VBRF .|PMP
+pero|CCT ang|DTC lahat|PRI ng|CCB ito|PRO ay|LM kanyang|PRSP_CCP nalampasan|VBTS .|PMP
+siya|PRS ang|DTC aming|PRSP_CCP sandigan|NNC ,|PMC takbuhan|NNC ,|PMC kanlungan|NNC .|PMP
+ah|NNCA ,|PMC paano|PRQ ko|PRS ba|RBI siya|PRS magagawang|RBD_CCP iwanan|VBOF at|CCA kalimutan|VBOF ?|PMQ
+kinagabihan|VBTR ay|LM paikut-ikot|JJD ako|PRS sa|CCT aking|PRSP_CCP kama|NNC .|PMP
+`|PMS di|RBF ako|PRS makatulog|VBW ,|PMC para|CCT akong|PRS_CCP balisa|NNC .|PMP
+magulo|JJD ang|DTC aking|PRSP_CCP isip|NNC ,|PMC damdamin|NNC ay|LM halu-halo|JJD .|PMP
+natatakot|VBTR ,|PMC kinakabahan|VBTR ,|PMC nalulungkot|VBTR ,|PMC nalilito|VBTR .|PMP
+unti-unti|JJD ay|LM bumigat|VBAF ang|DTC aking|PRSP_CCP mga|DTCP mata|NNC .|PMP
+pagod|JJD na|CCP utak|NNC at|CCA puso|NNC ay|LM gusto|VBS nang|RBW mamahinga|VBW .|PMP
+pero|CCT ,|PMC teka|NNC !|PMS
+ano|PRQ ba|RBI itong|PRO_CCP nakikita|VBTR ko|PRS ?|PMQ
+ang|DTC aming|PRSP_CCP bahay|NNC ay|LM tila|RBM nag-anyong-tao|VBTS !|PMQ
+kitang-kita|JJD ko|PRS ang|DTC mga|DTCP patak|NNC ng|CCB luhang|NNC_CCP nag-uunahan|VBTS .|PMP
+damang-dama|VBS ko|PRS ang|DTC kanyang|PRSP_CCP lubos|JJCS na|CCP kalungkutan|NNC .|PMP
+niyakap|VBTS ko|PRS siya|PRS at|CCA hinaplos|VBOF nang|RBD marahan|RBD .|PMP
+bulong|VBS ko|PRS sa|CCT kanya|PRSP ,|PMC ``|CDB tahan|NNC na|CCP ,|PMC tahanan|NNC .|PMP ''|PMS
+alam|VBS ko|PRS na|CCP kung|RBK ano|RBQ ang|DTC dapat|VBS gawin|VBOF .|PMP
+inaya|VBOF ko|PRS siyang|PRS_CCP sumama|VBAF sa|CCT akin|PRSP .|PMP
+sa|CCT malayong|JJD_CCP lugar|NNC kami|PRP pupunta|VBTF .|PMP
+kung|RBK saan|RBQ hindi|RBF kami|PRP masusundan|VBTF at|CCA makikita|VBTF .|PMP
+kaya|CCR '|PMS t|NNCA dala-dala|JJD ang|DTC ilang|PRQ_CCP gamit|VBS ay|LM aming|PRSP_CCP sinimulan|VBOF ang|DTC paglalakbay|NNC kahit|CCT di-tiyak|RBF ang|DTC patutunguhan|NNC .|PMP
+pero|CCT `|CDB di|RBF pa|RBI man|RBI kami|PRP masyadong|JJCS_CCP nakakalayo|VBTR ,|PMC may|VBH pangyayaring|NNC_CCP gumulat|VBAF sa|CCT aming|PRSP_CCP pareho|JJC .|PMP
+malakas|JJD na|CCP hangin|NNC at|CCA malalaking|JJD_CCP patak|NNC ng|CCB ulan|NNC ang|DTC biglang|RBD_CCP sumalubong|VBAF sa|CCT aming|PRSP_CCP daanan|NNC .|PMP
+nakakatakot|RBD ang|DTC tubig|NNC na|CCP rumaragasa|VBTR .|PMP
+kami|PRP ay|LM inanod|VBTS ,|PMC pati|CCA na|CCP ang|DTC aming|PRSP_CCP pag-asa|NNC .|PMP
+napapikit|VBTS na|RBI lamang|RBI ako|PRS sa|CCT sobrang|JJCS_CCP pangamba|NNC .|PMP
+hinigpitan|VBOF ko|PRS ang|DTC paghawak|NNC sa|CCT tahanang|NNC_CCP sinisinta|VBTR .|PMP
+pakiramdam|VBW ko|PRS ay|LM mabilis|JJD na|CCP umikot|VBAF ang|DTC buong|PRI_CCP mundo|NNC .|PMP
+pero|CCT pagbukas|NNC ng|CCB aking|PRSP_CCP mata|NNC ,|PMC nasa|RBL kama|NNC pa|RBI rin|RBI pala|NNC ako|PRS !|PMQ
+`|PMS di|RBF ko|PRS na|CCP napigilan|VBTS ang|DTC aking|PRSP_CCP mga|DTCP luha|NNC sa|CCT pagtulo|NNC .|PMP
+nilapitan|VBTS naman|RBI ako|PRS ni|DTP nanay|NNC at|CCA masuyong|RBD_CCP niyakap|VBOF ako|PRS .|PMP
+ang|DTC sabi|VBS ni|DTP nanay|NNC ,|PMC ``|FW ssshh|FW .|PMP
+tahan|NNC na|CCP ,|PMC aking|PRSP_CCP bunso|NNC .|PMP
+normal|JJD lang|RBI naman|RBI na|CCP matakot|VBW ka|PRS sa|CCT pagbabago|NNC .|PMP
+``|PMS pero|CCT huwag|RBF kang|PRS_CCP mag-alala|VBW dahil|CCR pangako|NNC sa|CCT iyo|PRSP ,|PMC doon|PRL ay|LM magiging|VBTF mas|JJCC masaya|JJD tayo|PRP .|PMP
+tandaan|VBOF mo|PRS na|CCP lagi|RBW kong|PRS_CCP hangad|NNC ang|DTC pinakamaganda|JJCS_JJD ,|PMC para|CCT sa|CCT ikabubuti|NNC ng|CCB ating|PRSP_CCP pamilya|NNC .|PMP ''|PMS
+``|PMS hindi|RBF mo|PRS naman|RBI kailangang|VBS_CCP iwanan|VBOF o|CCT kalimutan|VBOF ,|PMC ang|DTC masasayang|JJD_CCP alaala|NNC nitong|PRO_CCP ating|PRSP_CCP tahanan|NNC .|PMP
+sa|CCT halip|CCT ay|LM ipunin|VBOF at|CCA baunin|VBOF mo|PRS lahat|PRI ito|PRO ,|PMC bilang|CCT mahalagang|JJD_CCP bahagi|NNC ng|CCB buhay|NNC mo.|NNCA ``|PMS anak|NNC ,|PMC lagi|RBW mo|PRS rin|RBI sanang|VBS_CCP tatandaan|VBTF ,|PMC ang|DTC tunay|JJD na|CCP kahulugan|NNC ng|CCB tahanan|NNC .|PMP
+hindi|RBF ito|PRO isang|PRI_CCP lugar|NNC o|CCT pisikal|JJD na|CCP konsepto|NNC ;|PMSC ito|PRO ay|LM nasa|RBL kaibuturan|NNC ng|CCB ating|PRSP_CCP mga|DTCP puso|NNC .|PMP ''|PMS
+napangiti|VBTS ako|PRS sa|CCT mga|DTCP salita|NNC ni|DTP nanay|NNC .|PMP
+mga|DTCP gintong|JJD_CCP aral|NNC ito|PRO para|CCT sa|CCT ating|PRSP_CCP buhay|NNC .|PMP
+ang|DTC tahanan|NNC ay|LM dala-dala|JJD natin|PRP saan|PRQ man|RBI tayo|PRP mapunta|VBW ;|PMSC basta|CCT '|PMS t|NNCA tunay|RBT ang|DTC ating|PRSP_CCP pagmamahal|NNC sa|CCT isa|PRI '|PMS t|NNCA isa|PRI !|PMQ

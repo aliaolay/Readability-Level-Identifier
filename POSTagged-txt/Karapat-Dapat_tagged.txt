@@ -1,0 +1,121 @@
+tumingin|VBAF sa|CCT salamin|NNC .|PMP
+iguhit|VBOF mo|PRS sa|CCT loob|NNC ng|CCB kuwadro|NNC ang|DTC iyong|PRSP_CCP mukha|NNC gaano|PRC ka|PRS kagaling|NNC_CCP ...|PMS sumayaw|VBAF ?|PMQ
+...|PMS gumuhit|VBAF ?|PMQ
+...|PMS umawit|VBAF ?|PMQ
+...|PMS magbasa|VBW ...|PMS tumalon|VBAF ...|PMS tumakbo|VBAF ?|PMQ
+sa|CCT buong|PRI_CCP mundo|NNC ,|PMC walang|VBN_CCP ibang|PRI_CCP katulad|JJC mo|PRS !|PMQ
+kung|CCR ika|JJN '|PMS y|FW may|VBH edad|NNC na|CCP mababa|JJD sa|CCT 18|CDB taong|NNC_CCP gulang|NNC ,|PMC dapat|VBS mong|PRS_CCP malamang|RBI may|VBH mga|DTCP karapatan|NNC ka|PRS bilang|CCT bata|NNC .|PMP
+palakihin|RBD kang|PRS_CCP ligtas|JJD mula|RBL sa|CCT pahamak|RBD nang|RBD matupad|RBD mo|PRS ang|DTC lahat|PRI ng|CCB iyong|PRSP_CCP mga|DTCP pangarap|NNC -|PMS ito|PRO ang|DTC pangunahing|JJD_CCP tungkulin|NNC ng|CCB iyong|PRSP_CCP pamilya|NNC '|PMS t|NNCA pamahalaan|NNC .|PMP
+maging|VBW sino|PRQ ka|PRS man|RBI ,|PMC anuman|PRI ang|DTC iyong|PRSP_CCP wika|NNC ,|PMC kultura|NNC '|PMS t|NNCA paniniwala|NNC ,|PMC dapat|VBS mong|PRS_CCP tandaan|VBOF :|PMS bilang|CCT bata|NNC ,|PMC ikaw|PRS ay|LM may|VBH mga|DTCP angking|NNC_CCP karapatan|NNC .|PMP
+karapatan|NNC mong|PRS_CCP lumaking|VBAF_CCP malusog|RBD .|PMP
+karapatan|NNC mong|PRS_CCP makamit|VBW ang|DTC mahusay|JJD na|CCP pangangalaga|NNC ,|PMC magkaroon|VBAF ng|CCB malinis|JJD na|CCP inuming|NNC_CCP tubig|NNC ,|PMC masustansyang|JJD_CCP pagkain|NNC ,|PMC malinis|JJD at|CCA ligtas|JJD na|CCP kapaligiran|NNC ,|PMC at|CCA makabuluhang|JJD_CCP impormasyon|NNC tungkol|RBR sa|CCT iyong|PRSP_CCP sariling|NNC_CCP kapakanan|NNC .|PMP
+saligan|NNC ng|CCB masaya|JJD '|PMS t|NNCA masaganang|JJD_CCP buhay|NNC :|PMS sapat|JJD na|CCP pagkain|NNC ,|PMC hustong|JJD_CCP damit|NNC na|CCP masusuot|JJD ,|PMC at|CCA mapayapang|JJD_CCP tahanan|NNC .|PMP
+iguhit|VBOF ang|DTC gusto|VBS mong|PRS_CCP handa|JJD sa|CCT iyong|PRSP_CCP kaarawan|NNC .|PMP
+ang|DTC kapansanan|NNC ay|LM `|PMS di|RBF dapat|VBS maging|VBW dahilan|NNC upang|CCB ikaw|PRS ay|LM mapag-iwanan|VBW .|PMP
+sa|CCT espesyal|JJD na|CCP edukasyon|NNC at|CCA pangangalaga|NNC ,|PMC tiyak|RBT mong|PRS_CCP may|VBH laban|NNC ka|PRS sa|CCT kinabukasan|NNC .|PMP
+may|VBH karapatan|NNC kang|PRS_CCP lumaki|VBAF sa|CCT isang|PRI_CCP masayang|JJD_CCP tahanan|NNC ,|PMC sa|CCT kalinga|NNC ng|CCB isang|PRI_CCP mapagmahal|JJD na|CCP pamilya|NNC -|PMS kadugo|NNC mo|PRS man|RBI o|CCT hindi|RBF .|PMP
+hello|NNC ,|PMC anak|NNC !|PMS
+kumusta|VBAF ?|PMQ
+hello|NNC ,|PMC tatay|NNC !|PMS
+pauwi|JJD na|CCP po|RBS ko|PRS galing|RBL school|NNC ,|PMC sinundo|VBTS ako|PRS ni|DTP lola|NNC at|CCA ni|DTP bunso|NNC .|PMP
+dapat|VBS kang|PRS_CCP panatilihing|RBD_CCP ligtas|JJD mula|RBL sa|CCT pananakit|NNC at|CCA karahasan|NNC .|PMP
+ang|DTC mga|DTCP taong|NNC_CCP nag-aalaga|VBTR sa|CCT iyo|PRSP ,|PMC hindi|RBF ka|PRS dapat|VBS sinasaktan|VBTR .|PMP
+iguhit|VBOF ang|DTC larawan|NNC ng|CCB mga|DTCP taong|NNC_CCP nag-aaruga|VBTR sa|CCT iyo|PRSP .|PMP
+ang|DTC iyong|PRSP_CCP murang|JJD_CCP katawan|NNC at|CCA isipan|NNC ay|LM dapat|VBS ingatang|VBTS_CCP huwag|RBF malulong|VBW sa|CCT droga|NNC at|CCA iba|PRI pang|RBI_CCP mapanganib|JJD na|CCP sangkap|NNC .|PMP
+dapat|VBS ka|PRS rin|RBI ilayo|VBOL mula|RBL sa|CCT anumang|PRI_CCP uri|NNC ng|CCB pananamantala|NNC '|PMS t|NNCA karahasan|NNC .|PMP
+tulungan|VBTF_VBOF mo|PRS ang|DTC mga|DTCP batang|JJD_CCP makauwi|VBW nang|RBD ligtas|JJD mula|RBL sa|CCT kapahamakan|NNC .|PMP
+karapatan|NNC mong|PRS_CCP magkaroon|VBW ng|CCB boses|NNC at|CCA pakinggan|VBOF ng|CCB mga|DTCP nakatatanda|NNC .|PMP
+karapatan|NNC mong|PRS_CCP maging|VBW masaya|JJD at|CCA malaya|JJD ,|PMC makipaglaro|VBW ,|PMC makipagkaibigan|VBW ,|PMC at|CCA makipag-ugnayan|VBW sa|CCT iyong|PRSP_CCP mga|DTCP kapwa-bata|NNC .|PMP
+mas|JJCC gaganda|VBTF ang|DTC daigdig|NNC kapag|CCR dadagdagan|VBTF mo|PRS ng|CCB kulay|NNC !|PMS
+karapatan|NNC mong|PRS_CCP maglaro|VBAF -|PMS at|CCA magpahinga|VBW .|PMP
+ano|PRQ ang|DTC pakiramdam|NNC mo|PRS sa|CCT ...|PMS sorbetes|NNC na|CCP ube|NNC ?|PMQ
+...|PMS aklat|NNC ?|PMQ
+...|PMS ulan|NNC ?|PMQ
+...|PMS kulay|NNC pula|JJD ?|PMQ
+...|PMS palaka|NNC ?|PMQ
+...|PMS mangga|VBW ?|PMQ
+may|VBH karapatan|NNC kang|PRS_CCP manuri|NNC at|CCA tumuklas|VBAF ng|CCB iba|PRI `|PMS t-ibang|JJD_CCP bagay|NNC .|PMP
+may|VBH kalayaan|NNC kang|PRS_CCP ipahayag|VBOF ang|DTC sarili|NNC sa|CCT pamamagitan|NNC ng|CCB pagtalakay|NNC ,|PMC pagguhit|NNC ,|PMC pagsulat|NNC ,|PMC at|CCA iba|PRI pang|RBI_CCP paraan|NNC .|PMP
+paliparin|RBL ang|DTC haraya|NNC .|PMP
+lumikha|VBAF ng|CCB sariling|NNC_CCP bersyon|NNC ng|CCB larawan|NNC sa|CCT kaliwa|JJD .|PMP
+pag-ibahin|VBW ang|DTC tunay|RBT mula|RBL sa|CCT hindi|RBF totoo|RBT .|PMP
+alin|PRQ ang|DTC tunay|RBT ?|PMQ
+alin|PRQ ang|DTC kathang-isip|NNC ?|PMQ
+karapatan|NNC mong|PRS_CCP makakuha|VBW ng|CCB impormasyong|NNC_CCP kapaki-pakinabang|JJD sa|CCT iyo|PRSP at|CCA nakalahad|VBTS sa|CCT paraang|NNC_CCP madaling|JJD_CCP maunawaan|VBW .|PMP
+dahil|CCR ikaw|PRS ay|LM bata|JJD pa|RBI na|CCP may|VBH murang|JJD_CCP isipan|NNC ,|PMC ang|DTC iyong|PRSP_CCP pagkakamali|NNC at|CCA nagawang|VBTS_CCP krimen|NNC ay|LM hindi|RBF dapat|VBS patawan|VBOF ng|CCB kaparusahang|NNC_CCP sing-bigat|JJD ng|CCB sa|CCT mga|DTCP matatanda|NNC o|CCT mapanganib|JJD sa|CCT iyong|PRSP_CCP buhay|NNC karapatan|NNC mong|PRS_CCP magkaroon|VBAF ng|CCB kalayaan|NNC at|CCA kaligtasan|NNC mula|RBL sa|CCT giyera|NNC .|PMP
+at|CCA kung|CCR ika|JJN '|PMS y|FW may|VBH edad|NNC 15|CDB pababa|JJD ,|PMC hindi|RBF ka|PRS maaaring|RBM piliting|RBD_CCP sumali|VBAF sa|CCT hukbo|NNC at|CCA lumahok|VBAF sa|CCT digmaan|NNC .|PMP
+kung|CCR pilitin|VBOF ka|PRS ng|CCB pagkakataong|NNC_CCP lisanin|VBOF ang|DTC sariling|NNC_CCP bayan|NNC ,|PMC karapatan|NNC mong|PRS_CCP humingi|VBAF ng|CCB proteksyon|NNC at|CCA tulong|NNC sa|CCT bayan|NNC na|CCP iyong|PRO_CCP lilipatan|NNC .|PMP
+buuin|VBOF at|CCA palaguin|VBOF ang|DTC hardin|NNC !|PMS
+karapatan|NNC mong|PRS_CCP humingi|VBAF at|CCA mabigyan|VBW ng|CCB tulong|NNC ,|PMC kung|CCR sakaling|RBM ikaw|PRS ay|LM nasaktan|VBTS ,|PMC napabayaan|VBTS ,|PMC o|CCT napagmalupitan|VBTS .|PMP
+maghandang|RBD_CCP pumasok|VBAF .|PMP
+iguhit|VBOF ang|DTC mga|DTCP gamit|NNC na|CCP kakailanganin|VBTF mo|PRS para|CCT sa|CCT paaralan|NNC .|PMP
+kahit|CCT gaano|PRC katayog|JJD ang|DTC iyong|PRSP_CCP mga|DTCP pangarap|NNC ,|PMC kayang-kaya|JJD mong|PRS_CCP abutin|VBOF .|PMP
+karapatan|NNC mong|PRS_CCP mabigyan|VBW ng|CCB pagkakataon|NNC tungo|NNC sa|CCT pinakamataas|JJCS_JJD na|CCP antas|NNC ng|CCB edukasyon|NNC .|PMP
+dapat|VBS mong|PRS_CCP magamit|VBW ang|DTC iyong|PRSP_CCP edukasyon|NNC sa|CCT pagpalago|VBW ng|CCB iyong|PRSP_CCP dunong|NNC at|CCA mga|DTCP kakayahan|NNC .|PMP
+dapat|VBS ay|LM matulungan|VBW ka|PRS nitong|PRO_CCP mamuhay|VBW nang|RBW tiwasay|VBOF ,|PMC na|CCP may|VBH pagmamahal|NNC sa|CCT kapaligiran|NNC at|CCA paggalang|NNC sa|CCT kapwa|PRI .|PMP
+bata|JJD ,|PMC bukod-tangi|JJD kang|PRS_CCP nilalang|NNC .|PMP
+may|VBH angking|NNC_CCP talino|NNC '|PMS t|NNCA kakayahang|RBD_CCP dapat|VBS linangin|VBOF at|CCA ingatan|RBD .|PMP
+laging|RBW_CCP tandaan|VBOF na|CCP ang|DTC batas|NNC ay|LM kapanig|CCB mo|PRS -|PMS sa|CCT oras|NNC na|CCP maparaya|VBW ang|DTC pagtrato|VBW sa|CCT iyo|PRSP .|PMP
+nasa|RBL iyong|PRO_CCP mga|DTCP kamay|NNC ang|DTC kinabukasan|NNC ng|CCB bayan|NNC .|PMP
+ikaw|PRS ang|DTC may|VBH kakayahang|NNC_CCP baguhin|VBOF ang|DTC mundo|NNC .|PMP
+dahil|CCR ikaw|PRS ang|DTC mundo|NNC .|PMP
+angkin|NNC ng|CCB lahat|PRI ng|CCB taong|NNC_CCP may|VBH edad|NNC na|CCP mas|JJCC mababa|JJD sa|CCT 18|CDB taon|NNC ang|DTC mga|DTCP karapatang|NNC_CCP ito|PRO .|PMP
+angkin|NNC ng|CCB lahat|PRI ng|CCB kabataan|NNC ang|DTC mga|DTCP karapatang|NNC_CCP ito|PRO ,|PMC sino|PRQ man|RBI sila|PRP ,|PMC saan|PRQ man|RBI sila|PRP naninirahan|VBTR ,|PMC anuman|PRI ang|DTC hanapbuhay|NNC ng|CCB kanilang|PRSP_CCP mga|DTCP magulang|NNC ,|PMC anuman|PRI ang|DTC kanilang|PRSP_CCP wika|NNC ,|PMC pananampalataya|NNC ,|PMC babae|NNC o|CCT lalaki|NNC man|RBI sila|PRP ,|PMC anuman|PRI ang|DTC kulturang|NNC_CCP kanilang|PRSP_CCP pinanggalingan|VBOL ,|PMC may|VBH kapansanan|NNC o|CCT wala|VBN ,|PMC mahirap|JJD o|CCT mayaman|JJD .|PMP
+walang|VBN_CCP batayan|NNC para|CCT pagkaitan|VBW ng|CCB karapatan|NNC ang|DTC kahit|CCT sinong|PRQ_CCP bata|NNC .|PMP
+tungkuling|NNC_CCP itaguyod|VBOF ng|CCB mga|DTCP nakakatanda|VBTR ang|DTC lahat|PRI ng|CCB makabubuti|VBW sa|CCT iyo|PRSP .|PMP
+dapat|VBS nilang|PRP_CCP isaalang-alang|VBTF ang|DTC epekto|NNC ng|CCB kanilang|PRSP_CCP mga|DTCP desisyon|NNC sa|CCT mga|DTCP bata|NNC .|PMP
+may|VBH tungkulin|NNC ang|DTC pamahalaang|NNC_CCP pangalagaan|VBOF ang|DTC iyong|PRSP_CCP mga|DTCP karapatan|NNC .|PMP
+dapat|VBS nitong|PRO_CCP tulungan|VBTF_VBOF ang|DTC iyong|PRSP_CCP pamilya|NNC sa|CCT pangangalaga|NNC ng|CCB iyong|PRSP_CCP mga|DTCP karapatan|NNC at|CCA sa|CCT paglikha|NNC ng|CCB kapaligirang|NNC_CCP ligtas|JJD ,|PMC kung|RBK saan|RBQ maaaring|RBM yumabong|VBAF at|CCA umunlad|VBAF ang|DTC iyong|PRSP_CCP kakayahan|NNC .|PMP
+tungkulin|NNC ng|CCB iyong|PRSP_CCP pamilya|NNC na|CCP tulungan|VBTF_VBOF kang|PRS_CCP matutong|RBD_CCP magsanay|VBW ng|CCB iyong|PRSP_CCP mga|DTCP karapatan|NNC .|PMP
+dapat|VBS nilang|PRP_CCP tiyakin|VBOF ang|DTC pangangalaga|NNC ng|CCB mga|DTCP karapatang|NNC_CCP ito|PRO .|PMP
+may|VBH karapatan|NNC kang|PRS_CCP mabuhay|VBW .|PMP
+may|VBH karapatan|NNC kang|PRS_CCP mabigyan|VBW ng|CCB pangalan|NNC ,|PMC at|CCA ito|PRO ay|LM dapat|VBS opisyal|JJD na|CCP kilalanin|VBOF ng|CCB pamahalaan|NNC .|PMP
+may|VBH karapatan|NNC kang|PRS_CCP magkaroon|VBW ng|CCB nasyonalidad|NNC -LRB-|NNPA maging|VBW mamamayan|NNC ng|CCB isang|PRI_CCP bansa|NNC .|PMP -RRB-|NNPA
+karapatan|NNC mong|PRS_CCP magkaroon|VBW ng|CCB pagkakakilanlan-mayroong|JJD_CCP opisyal|NNC na|CCP tala|NNC ng|CCB kung|RBK sino|RBQ ka|PRS .|PMP
+di|RBF ito|PRO maaaring|RBM ipagkaila|VBOB o|CCT agawin|VBOF nino|RBD man|RBI mula|RBL sa|CCT iyo|PRSP .|PMP
+may|VBH karapatan|NNC kang|PRS_CCP mabuhay|VBW sa|CCT piling|JJD_CCP ng|CCB iyong|PRSP_CCP magulang|NNC o|CCT mga|DTCP magulang|NNC ,|PMC maliban|CCT na|CCP lamang|RBI kung|CCR makakasama|VBTF ito|PRO sa|CCT iyo|PRSP .|PMP
+may|VBH karapatan|NNC kang|PRS_CCP mabuhay|VBW sa|CCT piling|JJD_CCP ng|CCB pamilyang|NNC_CCP mag-aaruga|JJD sa|CCT iyo|PRSP .|PMP
+kung|CCR sakaling|RBM magkaiba|VBW ang|DTC kinaroroonan|VBTR mong|PRS_CCP bansa|NNC sa|CCT iyong|PRSP_CCP mga|DTCP magulang|NNC ,|PMC karapatan|NNC mong|PRS_CCP makasama|VBW sila|PRP at|CCA manirahan|VBW sa|CCT iisang|JJD_CCP lugar|NNC .|PMP
+may|VBH karapatan|NNC kang|PRS_CCP maprotektahan|VBW mula|RBL sa|CCT pagdukot|NNC .|PMP
+karapatang|NNC_CCP mong|PRS_CCP magpahayag|VBW ng|CCB sariling|NNC_CCP opinyon|NNC ,|PMC at|CCA dapat|VBS itong|PRO_CCP dinggin|VBOF at|CCA seryosohin|VBOF ng|CCB mga|DTCP nakatatanda|NNC .|PMP
+karapatan|NNC mong|PRS_CCP tumuklas|VBAF ng|CCB iba|PRI `|PMS tibang|JJD_CCP bagay|NNC at|CCA ibahagi|VBOF ang|DTC iyong|PRSP_CCP mga|DTCP kaisipan|NNC sa|CCT ibang|PRI_CCP tao|NNC sa|CCT pamamagitan|NNC ng|CCB pagsasalita|NNC ,|PMC pagguhit|NNC ,|PMC pagsulat|NNC ,|PMC at|CCA iba|PRI pang|RBI_CCP mga|DTCP pamamaraan|NNC ,|PMC maliban|CCT na|CCP lamang|RBI kung|CCR ito|PRO ay|LM makakasama|VBTF o|CCT makakasakit|VBTF sa|CCT ibang|PRI_CCP tao|NNC .|PMP
+karapatan|NNC mong|PRS_CCP pumili|VBAF ng|CCB sariling|NNC_CCP relihiyon|NNC at|CCA paniniwala|NNC .|PMP
+dapat|VBS kang|PRS_CCP tulungan|VBOF ng|CCB iyong|PRSP_CCP mga|DTCP magulang|NNC na|CCP magpasya|VBAF hinggil|RBR sa|CCT kaibahan|NNC ng|CCB tama|JJD at|CCA mali|JJD ,|PMC at|CCA kung|RBK ano|RBQ ang|DTC pinakamabuti|JJCS_JJD para|CCT sa|CCT iyo|PRSP .|PMP
+may|VBH karapatan|NNC kang|PRS_CCP piliin|VBOF ang|DTC iyong|PRSP_CCP mga|DTCP kaibigan|NNC ,|PMC lumahok|VBAF o|CCT bumuo|VBAF ng|CCB mga|DTCP grupo|NNC ,|PMC basta|CCT '|PMS t|NNCA hindi|RBF ito|PRO ikapapahamak|VBTR ng|CCB ibang|PRI_CCP tao|NNC .|PMP
+may|VBH karapatang|NNC_CCP ka|PRS sa|CCT pagiging|VBTR pribado|JJD .|PMP
+karapatan|NNC mong|PRS_CCP makakuha|VBW ng|CCB impormasyong|NNC_CCP mahalaga|JJD sa|CCT iyong|PRSP_CCP kapakanan|NNC ,|PMC mula|RBW sa|CCT radyo|NNC ,|PMC pahayagan|NNC ,|PMC aklat|NNC ,|PMC at|CCA iba|PRI pang|RBI_CCP mapagkukunan|VBW ng|CCB kaalaman|NNC .|PMP
+dapat|VBS tiyakin|VBOF ng|CCB mga|DTCP nakatatanda|NNC na|CCP ang|DTC kaalamang|NNC_CCP iyong|PRSP_CCP nakakalap|VBTS ay|LM hindi|RBF mo|PRS ikapapahamak|VBTR .|PMP
+dapat|VBS ka|PRS nilang|PRP_CCP tulungan|VBTF_VBOF sa|CCT paghahanap|NNC ng|CCB kaalamang|NNC_CCP kailangan|VBS mo|PRS at|CCA sa|CCT pag-unawa|NNC nito|PRO .|PMP
+karapatan|NNC mong|PRS_CCP palakihin|VBOF ka|PRS ng|CCB sarili|NNC mong|PRS_CCP magulang|NNC -LRB-|NNPA o|CCT mga|DTCP magulang|NNC -RRB-|NNPA hangga|RBW '|PMS t|NNCA maaari|VBS .|PMP
+karapatan|NNC mong|PRS_CCP maging|VBW ligtas|JJD mula|RBL sa|CCT pananakit|NNC at|CCA pagmamaltrato|NNC ,|PMC maging|VBW sa|CCT katawan|NNC o|CCT isipan|NNC .|PMP
+karapatan|NNC mong|PRS_CCP makatanggap|VBW ng|CCB natatanging|JJD_CCP kalinga|NNC at|CCA tulong|NNC kung|CCR sakaling|RBM_CCP hindi|RBF ka|PRS maaaring|RBM manirahan|VBW sa|CCT piling|JJD_CCP ng|CCB iyong|PRSP_CCP mga|DTCP magulang|NNC .|PMP
+may|VBH karapatan|NNC ka|PRS sa|CCT pag-aaruga|NNC at|CCA proteksyon|NNC kung|CCR ikaw|PRS ay|LM ampon|NNC o|CCT naninirahan|VBTR sa|CCT bahay-ampunan|NNC .|PMP
+may|VBH karapatan|NNC ka|PRS sa|CCT proteksyon|NNC at|CCA tulong|NNC kung|CCR ikaw|PRS ay|LM isang|PRI_CCP refugee|FW -LRB-|NNPA kung|CCR ikaw|PRS ay|LM napilitang|RBD_CCP lumikas|VBAF at|CCA mangibang-bayan|RBD -RRB-|NNPA ,|PMC at|CCA pati|CCA na|CCP sa|CCT mga|DTCP karapatang|NNC_CCP kalakip|JJD sa|CCT convention|FW na|CCP ito|PRO .|PMP
+may|VBH karapatan|NNC ka|PRS sa|CCT natatanging|JJD_CCP edukasyon|NNC at|CCA pangangalaga|NNC kung|CCR ikaw|PRS ay|LM may|VBH kapansanan|NNC ,|PMC at|CCA sa|CCT lahat|PRI ng|CCB karapatang|NNC_CCP kalakip|JJD ng|CCB convention|FW na|CCP ito|PRO ,|PMC upang|CCB ikaw|PRS ay|LM mabuhay|RBD nang|RBD ganap|RBD .|PMP
+may|VBH karapatan|NNC ka|PRS sa|CCT pinakamahusay|JJCS_JJD na|CCP pangangalagang|NNC_CCP pangkalusugan|JJD ,|PMC ligtas|JJD na|CCP tubig|NNC na|CCP iinumin|VBTF ,|PMC masustansyang|JJD_CCP pagkain|NNC ,|PMC malinis|JJD at|CCA matiwasay|JJD na|CCP kapaligiran|NNC ,|PMC at|CCA impormasyong|NNC_CCP makabubuti|VBW sa|CCT iyong|PRSP_CCP kapakanan|NNC .|PMP
+kung|CCR ikaw|PRS ay|LM nasa|RBL pangangalaga|NNC ng|CCB iba|PRI o|CCT nasa|RBL ibang|PRI_CCP sitwasyong|NNC_CCP nananahan|VBTR ka|PRS malayo|JJD sa|CCT iyong|PRSP_CCP tahanan|NNC ,|PMC may|VBH karapatan|NNC kang|PRS_CCP ipasuri|VBOF ang|DTC kalagayan|NNC ng|CCB iyong|PRSP_CCP paninirahan|NNC upang|CCB matiyak|VBW na|CCP ito|PRO ay|LM patuloy|RBD na|CCP angkop|JJD sa|CCT iyo|PRSP .|PMP
+may|VBH karapatan|NNC kang|PRS_CCP humingi|VBAF ng|CCB tulong|NNC sa|CCT pamahalaan|NNC kung|CCR ikaw|PRS ay|LM mahirap|JJD o|CCT nangangailangan|VBTR .|PMP
+may|VBH karapatan|NNC kang|PRS_CCP kumain|VBAF ,|PMC magkaroon|VBAF ng|CCB damit|NNC ,|PMC ligtas|JJD na|CCP tirahan|NNC ,|PMC at|CCA mapunan|VBW ang|DTC lahat|PRI ng|CCB iyong|PRSP_CCP batayang|NNC_CCP pangangailangan|NNC .|PMP
+hindi|RBF ka|PRS dapat|VBS makaranas|VBW ng|CCB kakulangang|NNC_CCP maghahadlang|VBAF sa|CCT iyo|PRSP sa|CCT paggawa|NNC ng|CCB mga|DTCP bagay|NNC na|CCP kaya|RBD ng|CCB ibang|PRI_CCP bata|NNC .|PMP
+may|VBH karapatan|NNC kang|PRS_CCP magkaroon|VBW ng|CCB mahusay|JJD na|CCP edukasyon|NNC .|PMP
+dapat|VBS kang|PRS_CCP hikayating|RBD_CCP abutin|VBOF ang|DTC pinakamataas|JJCS_JJD na|CCP antas|NNC na|CCP iyong|PRO_CCP makakaya|VBW .|PMP
+ang|DTC iyong|PRSP_CCP edukasyon|NNC ay|LM dapat|VBS makatulong|VBW sa|CCT paggamit|NNC at|CCA paglinang|NNC ng|CCB iyong|PRSP_CCP talino|NNC '|PMS t|NNCA mga|DTCP kakayahan|NNC .|PMP
+dapat|VBS din|RBI itong|PRO_CCP makatulong|VBW sa|CCT iyo|PRSP na|CCP mabuhay|VBW nang|RBD matiwasay|JJD ,|PMC nang|RBW may|VBH pagmamalasakit|NNC sa|CCT kapaligiran|NNC ,|PMC at|CCA may|VBH paggalang|NNC sa|CCT kapwa-tao|NNC .|PMP
+may|VBH karapatan|NNC kang|PRS_CCP tumangkilik|VBAF ng|CCB iyong|PRSP_CCP kultura|NNC ,|PMC wika|NNC ,|PMC at|CCA relihiyon-o|JJD ng|CCB ano|PRQ mang|RBI_CCP iyong|PRO_CCP piliin|VBOF .|PMP
+ang|DTC mga|DTCP grupong|NNC_CCP minoridad|JJD at|CCA katutubo|NNC ay|LM nangangailangan|VBTR ng|CCB natatanging|JJD_CCP proteksyon|NNC para|CCT sa|CCT karapatang|NNC_CCP ito|PRO .|PMP
+may|VBH karapatan|NNC kang|PRS_CCP maglaro|VBAF at|CCA magpahinga|VBW .|PMP
+may|VBH karapatan|NNC kang|PRS_CCP magkaroon|VBW ng|CCB proteksyon|NNC laban|NNC sa|CCT mga|DTCP gawaing|NNC_CCP maglalagay|VBAF sa|CCT iyo|PRSP sa|CCT kapahamakan|NNC ,|PMC at|CCA makapipinsala|VBW sa|CCT iyong|PRSP_CCP kalusugan|NNC at|CCA pag-aaral|NNC .|PMP
+kung|CCR ikaw|PRS ay|LM nagtatrabaho|VBTR ,|PMC nararapat|VBTR kang|PRS_CCP maging|VBW ligtas|JJD at|CCA bayaran|VBOF nang|RBD wasto|RBD .|PMP
+may|VBH karapatan|NNC kang|PRS_CCP magkaroon|VBW ng|CCB proteksyon|NNC mula|RBL sa|CCT bawal|JJD na|CCP gamot|NNC at|CCA sa|CCT kalakalan|NNC ng|CCB bawal|JJD na|CCP gamot|NNC .|PMP
+may|VBH karapatan|NNC kang|PRS_CCP maging|VBW ligtas|JJD mula|RBL sa|CCT pang-aabusong|JJD_CCP sekswal|NNC .|PMP
+walang|VBN_CCP sino|PRQ man|RBI ang|DTC maaaring|RBM dumukot|VBAF o|CCT magbenta|VBW sa|CCT iyo|PRSP .|PMP
+may|VBH karapatan|NNC kang|PRS_CCP magkaroon|VBW ng|CCB proteksyon|NNC laban|NNC sa|CCT kahit|CCT anong|PRQ_CCP uri|NNC ng|CCB pananamantala|NNC at|CCA pang-aabuso|NNC .|PMP
+walang|VBN_CCP sino|PRQ man|RBI ang|DTC maaaring|RBM magparusa|VBW sa|CCT iyo|PRSP sa|CCT isang|PRI_CCP malupit|JJD o|CCT mapaminsalang|VBW_CCP paraan|NNC .|PMP
+may|VBH karapatan|NNC kang|PRS_CCP magkaroon|VBW ng|CCB proteksyon|NNC at|CCA kalayaan|NNC mula|RBL sa|CCT digmaan|NNC .|PMP
+ang|DTC kabataang|NNC_CCP may|VBH edad|NNC na|CCP mas|JJCC mababa|JJD sa|CCT 15|CDB taon|NNC ay|LM di|RBF maaaring|RBM piliting|RBD_CCP maging|VBW sundalo|NNC o|CCT lumahok|VBAF sa|CCT giyera|NNC .|PMP
+dapat|VBS kang|PRS_CCP saklolohan|VBOF kung|CCR ikaw|PRS ay|LM nasaktan|VBTS ,|PMC napabayaan|VBTS ,|PMC o|CCT napagmalupitan|VBTS .|PMP
+may|VBH karapatan|NNC kang|PRS_CCP makatanggap|VBW ng|CCB tulong|NNC na|CCP legal|JJD at|CCA makatarungang|JJD_CCP pagtrato|VBW sa|CCT ilalim|JJD ng|CCB sistema|NNC ng|CCB paglilitis|VBW na|CCP kumikilala|VBTR sa|CCT iyong|PRSP_CCP mga|DTCP karapatan|NNC .|PMP
+kung|CCR ang|DTC mga|DTCP batas|NNC sa|CCT iyong|PRSP_CCP bansa|NNC ay|LM nagkakaloob|VBTR ng|CCB mas|JJCC mabisang|JJD_CCP proteksyon|NNC ng|CCB iyong|PRSP_CCP mga|DTCP karapatan|NNC kaysa|JJC mga|DTCP artikulong|NNC_CCP nakapaloob|VBTS sa|CCT convention|FW na|CCP ito|PRO ,|PMC ang|DTC mga|DTCP batas|NNC na|CCP iyon|PRO ang|DTC dapat|VBS tangkilikin|VBOF .|PMP
+karapatan|NNC mong|PRS_CCP alamin|VBOF ang|DTC iyong|PRSP_CCP mga|DTCP karapatan|NNC !|PMS
+dapat|VBS alamin|VBOF ng|CCB mga|DTCP nakatatanda|NNC ang|DTC mga|DTCP karapatang|NNC_CCP ito|PRO at|CCA tulungan|VBTF_VBOF ka|PRS din|RBI nilang|PRP_CCP mabatid|VBW ang|DTC mga|DTCP ito|PRO .|PMP
+ipinaliliwanag|VBTS ng|CCB mga|DTCP artikulong|NNC_CCP ito|PRO kung|RBK paano|RBQ kikilos|VBTF ang|DTC mga|DTCP pamahalaan|NNC at|CCA mga|DTCP organisasyong|NNC_CCP pandaigdig|JJD gaya|JJC ng|CCB unicef|FW upang|CCB masiguro|VBW ang|DTC pangangalaga|NNC ng|CCB mga|DTCP bata|NNC batay|RBR sa|CCT kanilang|PRSP_CCP mga|DTCP karapatan|NNC .|PMP
