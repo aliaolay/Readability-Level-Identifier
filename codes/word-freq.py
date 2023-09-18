@@ -12,7 +12,8 @@ file_name = "Ang Aklatang Pusa_cleaned.txt"
 with open(os.path.join(path, file_name), 'r', encoding='utf-8') as file:
     text = file.read()
 
-text_tokens = word_tokenize(text)
+temp_tokens = word_tokenize(text)
+text_tokens = [word for word in temp_tokens if word.isalnum()] # removes punctuation marks
 fdist = FreqDist(text_tokens)
 
 # Create a DataFrame from the frequency distribution
