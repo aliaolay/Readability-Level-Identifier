@@ -3,12 +3,19 @@
 
  
 import os
+import stopwordsiso
+
+from stopwordsiso import stopwords
+
+# stopwords('tl') -> collection of stopwords in filo
+
+
   
 # insert folder path containing all raw text files
 path = "/Users/jerseydayao/Desktop/hckrwmn/repositories/Readability-Level-Identifier/raw-txt" 
 
 # insert folder path where new file will be created
-new_path = "/Users/jerseydayao/Desktop/hckrwmn/repositories/Readability-Level-Identifier/clean-txt"
+new_path = "/Users/jerseydayao/Desktop/hckrwmn/repositories/Readability-Level-Identifier/clean-new"
 
 # change directory
 os.chdir(path)
@@ -23,7 +30,12 @@ def read_text_file(file_path):
 
     with open(file_path, 'r') as file:
         for line in file:
-            cleaned_line = line.strip().lower()
+            no_stop_words = ''
+            for word in line.split(' '):
+                if word not in stopwords('tl'):
+                    no_stop_words += word
+                    no_stop_words += ' '
+            cleaned_line = no_stop_words.strip().lower()
             new_file.write(' ' + cleaned_line)
             
     new_file.close()
