@@ -3,6 +3,7 @@ import nltk
 from nltk import *
 from nltk.tag.stanford import StanfordPOSTagger
 from nltk.tokenize import word_tokenize
+import math
 
 # input local path to java.exe
 java_path = "C:/Program Files/Java/jre1.8.0_341/bin/java.exe" 
@@ -29,19 +30,35 @@ temp_words = [word for word in words if word.isalnum()] # removes punctuation ma
 #tag tokenized words
 tagged_words = pos_tagger.tag(temp_words)
 
-# VERB COUNT
-verb_count = 0
-for word, tag in tagged_words:
+# count unique lexical categories
+unique_categories = set()
+for _, tag in tagged_words:
     tag = tag.split('|')[-1] #removes word before |
-    if tag.startswith('VB'):
-        verb_count += 1
-        
-print("Number of verbs: ", verb_count)
+    if len(tag) >= 2:  # make sure the tag is not empty
+        category = tag[:2]  # extract the first two letters
+        unique_categories.add(category)
 
-# VERB TOKEN RATIO
-# = verb_count/total_token_count
+print("Unique Categories:", unique_categories)
+
+#NUMBER OF UNIQUE CATEGORIES
+num_categories = len(unique_categories)
+print("Number of Unique Categories:", num_categories)
+
+# TOTAL NUM OF TOKENS
 total_token_count = len(temp_words)
-verb_token_ratio = verb_count/total_token_count
 
-print("Total number of tokens: ", total_token_count)
-print("Noun-Token Ratio: ", verb_token_ratio)
+# TYPE TOKEN RATIO
+ttr = num_categories/total_token_count
+print("Type-Token Ratio: ", ttr)
+
+#ROOT TTR
+root_ttr = num_categories/math.sqrt(total_token_count)
+print("Root Type-Token Ratio: ", root_ttr)
+
+#CORR TTR
+corr_ttr = num_categories/math.sqrt(2*total_token_count)
+print("Corrected Type-Token Ratio: ", corr_ttr)
+
+#BILOGARITHMIC TTR
+log_ttr = math.log(num_categories)/math.log(total_token_count)
+print("Bilogarithmic Type-Token Ratio: ", log_ttr)
