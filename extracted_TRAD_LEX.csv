@@ -1,4 +1,4 @@
-Word Count,Sentence Count,Ave. Word Length,Ave. Sentence Length,Total Syllables,Noun-Token Ratio,Verb-Token Ratio,Type-Token Ratio,Root TTR,Corrected TTR,Bilogarithmic TTR,Lexical Density ,FW-Token Ratio,Age Classification
+Word Count,Sentence Count,Ave. Word Length,Ave. Sentence Length,Total Syllables,Noun-Token Ratio,Verb-Token Ratio,Type-Token Ratio,Root TTR,Corrected TTR,Bilogarithmic TTR,Lexical Density,FW-Token Ratio,Age Classification
 973,85,5.216380182,13.82352941,2096,0.2129144852,0.1134380454,0.009598603839,0.3249379052,0.2297657962,0.3404151156,0.4031413613,0.01745200698,10
 937,95,5.048167539,12.10526316,2018,0.1719457014,0.1031674208,0.009954751131,0.3309112607,0.2339895964,0.3421849225,0.4126696833,0.02171945701,10
 900,72,4.793478261,15.09722222,1844,0.136999068,0.1053122088,0.01025163094,0.335809381,0.2374530905,0.3436259423,0.367194781,0.03355079217,9
