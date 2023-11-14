@@ -25,7 +25,7 @@ label_encoder = LabelEncoder()
 Y = label_encoder.fit_transform(Y)
 X = StandardScaler().fit_transform(X)
 
-x_train , x_test, y_train, y_test = train_test_split(X, Y, test_size=0.2, random_state=42)
+x_train , x_test, y_train, y_test = train_test_split(X, Y, test_size=0.2, random_state=7)
 
 model = SVC(kernel='rbf', random_state = 1).fit(x_train,y_train)
 
