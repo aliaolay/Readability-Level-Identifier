@@ -1,0 +1,9 @@
+nltk
+pandas
+numpy
+wordcloud
+stopwordsiso
+matplotlib
+prettytable
+scikit-learn
+mlxtend
