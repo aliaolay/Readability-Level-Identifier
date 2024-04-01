@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <link href="./static/home.css" rel="stylesheet" />
+        <title>FLAIR</title>
+    </head>
+    <body>
+        <div class="main">
+            {{ test }}
+            <div class="title">
+                <h1>FLAIR</h1>
+                <h4>Filipino Language AI Readability Tool</h4>
+            </div>
+
+            <div class="left-container">
+                <h2>Assess the readability of your texts</h2>
+                <p>Enter your text or upload your text file below to calculate its readability level. Minimum input must be one (1) paragraph.</p>
+                <form>
+                    <input type="text" id="text-input" name="text-input" placeholder="Input your text here...">
+                    <p>OR</p>
+                    <div class="file-upload">
+                        <input type="file" id="file-input" name="file-input" accept=".doc, .docx, .txt">
+                    </div>
+                    <div class="bottom-container">
+                        <input type="submit" value="Calculate Readability">
+                        <div class="results">
+                            <h3>READABILITY RESULTS:</h3>
+                            <p><b>Recommended Age Range: </b> <span class="age-range"></span></p>
+                            <div class="tabs">
+                                <input type="radio" id="basic-features" name="text-features"><label for="basic-features">Basic Text Features</label>
+                                <input type="radio" id="advanced-features" name="text-features"><label for="advanced-features">Advanced Text Features</label>
+                            </div>
+                            <div class="basic-results">
+                                <ul>
+                                    <li>Word Count: <span id="word-count"></span></li>
+                                    <li>Sentence Count: <span id="sent-count"></span></li>
+                                    <li>Average Word Length: <span id="ave-word"></span></li>
+                                    <li>Average Sentence Length: <span id="ave-sent"></span></li>
+                                    <li>Total Number of Syllables: <span id="total-syll"></span></li>
+                                </ul>
+                            </div>
+                            <div class="advanced-results">
+                                <img id="word-cloud">
+                                <img id="word-embeddings">
+                            </div>
+                        </div>
+                    </div>
+                </form>
+            </div>
+
+            <div class="right-container">
+                <h3>What is Flair?</h3>
+                <p>FLAIR is an AI Tool that uses machine learning to assess the readability level of Filipino texts, particularly for Filipino children’s literature. </p>
+            </div>
+        </div>
+    </body>
+</html>
