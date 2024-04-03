@@ -1,0 +1,52 @@
+Folder PATH listing for volume OS
+Volume serial number is F6E4-4172
+C:.
+|   .env
+|   db.sqlite3
+|   FolderList.txt
+|   manage.py
+|   
++---flair
+|   |   asgi.py
+|   |   settings.py
+|   |   urls.py
+|   |   wsgi.py
+|   |   __init__.py
+|   |   
+|   \---__pycache__
+|           settings.cpython-310.pyc
+|           urls.cpython-310.pyc
+|           wsgi.cpython-310.pyc
+|           __init__.cpython-310.pyc
+|           
++---home
+|   |   admin.py
+|   |   apps.py
+|   |   models.py
+|   |   tests.py
+|   |   urls.py
+|   |   views.py
+|   |   __init__.py
+|   |   
+|   +---migrations
+|   |   |   __init__.py
+|   |   |   
+|   |   \---__pycache__
+|   |           __init__.cpython-310.pyc
+|   |           
+|   \---__pycache__
+|           admin.cpython-310.pyc
+|           apps.cpython-310.pyc
+|           models.cpython-310.pyc
+|           urls.cpython-310.pyc
+|           views.cpython-310.pyc
+|           __init__.cpython-310.pyc
+|           
++---static
+|       home.css
+|       home.css.map
+|       home.scss
+|       
+\---templates
+        home.html
+        
