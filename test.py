@@ -1,100 +1,29 @@
-import os
-import pandas as pd
-from os import path
-import numpy as np
-from prettytable import PrettyTable     # https://pypi.org/project/prettytable/
+import stopwordsiso
+from stopwordsiso import stopwords
 
-
-from sklearn.model_selection import train_test_split
-from sklearn.metrics import accuracy_score, confusion_matrix
-from sklearn.multioutput import MultiOutputClassifier
-
-#LR libraries
-from sklearn.linear_model import LogisticRegression
-from sklearn.preprocessing import StandardScaler
 from sklearn.feature_extraction.text import TfidfVectorizer
 
-# Example corpus
-corpus = [
-    'This is the first document.',
-    'This document is the second document.',
-    'And this is the third one.',
-    'Is this the first document?',
-]
+from PIL import Image
+from wordcloud import WordCloud, STOPWORDS, ImageColorGenerator
+import matplotlib.pyplot as plt
 
-# Create TF-IDF vectorizer
+# stop words
+stop_words = set(stopwords('tl'))
+others = ['ate', 'kuya', 'aginaldo', 'di', 'din', 'na', 'ba', 'eh', 'kasi', 'lang', 'mo', 'naman', 'opo', 'po', 'si', 'talaga', 'yung']   # https://github.com/explosion/spaCy/discussions/6122
+stop_words.update(others)
+
+# sample
+corpus = ["ang pasko ay lamig ng simoy-disyembre, may bango ng palay at hinog na ani. sapagkat bakasyon, bukas walang pasok, masarap matulog na balot ng kumot. “bangon at magbihis! ” ang utos ng ina. tawag ng kampana, “halina, magsimba! ” pasko'y simbang-gabi kahit inaantok bilang pasasalamat sa buti ng diyos. pero itong pasko’y suman, puto-bumbong, bibingka't salabat sa busog at gutom. kahit inaantok, puso'y sumisigla basta't may meryenda paglabas sa misa. ang pasko ay parol sa bintana’t pinto, masaya ang bati sa kulay at anyo; habang naglalaro sa pagkakasabit, parang sinasabing, “ ang pasko'y pag-ibig.” ang pasko ay belen na itinatanghal ang sanggol na hesus sa isang sabsaban. sagisag ng pasko ay pista ng bata at mahal ng diyos ang pobre at dukha. ang pasko'y karoling at pananapatan sa saliw ng balde't kuleleng na tansan. kahit sintunado ang kanta at tugtog, sa ngalan ng pasko, libreng mangalantog. pasko'y notse b'wena ng adobo, litson, at pagkaing tambak minsan isang taon. pag hindi napigil ng kamay ang bibig puputok ang tiyan sa sobrang paghatset. siyempre, di kumpleto ang diwa ng pasko kung walang laruan at ibang regalo. kaya raw may ninong kapag nagbibinyag, nang may aginaldo kaming inaanak. at higit sa lahat, ang pasko’y okasyon para ang pamilya’y muling magkatipon. si ate at kuya'y tiyak paparito, lahat sama-sama, pagdating ng pasko. bukas ay pasko na. sabik na si berting. asong aginaldo kaya ang tatanggapin? bukas ay pasko na. pero ama niya'y kayod sa pabrika. mahirap lang sila. bukas ay pasko na. pero naglalaba ang ina ni berting. mahirap lang sila. ano naman kaya ang dapat hilingin? baril na kaparis ng koboy sa komiks? pero naisip niya, “baril ay maingay. at nakasasakit pag may tinamaan.” baka mas mainam ay magandang damit para may kapalit ang suot na punit. pero naisip niya: “damit ay aanhin? wala namang parti o pistang darating. damit na may punit, masusulsihan din.” mahirap lang sila. bukas ay pasko na. maghapong abala ang isip ni berting sa hihilingin n’ya. pero naisip n'ya: “aanhin ang bola, kendi at laruan?” mahirap lang sila. nang hatinggabi na, ama ay wala pa. ang tanong ni berting, “nasan si ama?” ang sagot ni ina, “nasa sa pabrika. may obertaym sila.” nag-isip si berting at saka nagsabi: “kahit wala akong bagong aginaldo, basta't lagi lamang sama-sama tayo'y masaya ang pasko.” nang binyagan ako, galante ang ninong ko. bukod sa limampung piso, may bigay pang regalo. nang binyagan si arturo, galante rin ang ninong ko. bukod sa limampung piso, nagbigay rin ng regalo. naging popular ang ninong ko, naging kumpare ng buong baryo. pag sumasapit ang pasko, galante ang ninong ko. ang bigay na aginaldo malulutong na sampung piso. pero pagsapit ng ibang pasko, ang sampu'y naging piso, ang piso ay naging singko. kuripot ang ninong ko, nagtatago pa kung pasko. kaya ngayong pasko, walang ibig magmano sa ninong ko. ako tuloy ang sumolo sa kanyang aginaldo."]
+filtered = [word.lower() for word in corpus if word.lower() not in stop_words]
+
+# TF-IDF vectorizer
 tfidf_vectorizer = TfidfVectorizer()
+tfidf_matrix = tfidf_vectorizer.fit_transform(filtered)
+feature_names = tfidf_vectorizer.get_feature_names_out()    # words
 
-# Fit the vectorizer to the corpus and transform the documents into TF-IDF vectors
-tfidf_matrix = tfidf_vectorizer.fit_transform(corpus)
-
-# Print the shape of the TF-IDF matrix
-print("TF-IDF Matrix Shape:", tfidf_matrix.shape)
-
-# Get the feature names (words)
-feature_names = tfidf_vectorizer.get_feature_names_out()
-
-# Print the feature names
-print("Feature Names:", feature_names)
-
-# Print the TF-IDF matrix
-print("TF-IDF Matrix:")
-print(tfidf_matrix.toarray())
-
-
-# path = os.getcwd()
-# text_features = pd.read_csv(path + "/book.csv")
-# text_features_header = list(text_features.columns)
-# print(text_features)
-
-# # fx generates prettytable instances
-
-# def gen_table(prediction, tests):
-
-#     data = []
-#     i = 0
-#     book_titles = tests
-
-#     for test in book_titles:
-#         unit = []
-#         unit.append(text_features.loc[test]['Book Title'])
-#         unit.append(prediction[i][0])
-#         unit.append(prediction[i][1])
-#         data.append(unit)
-#         i += 1
-
-#     table = PrettyTable()
-#     table.title = 'Test Predictions'
-#     table.field_names = ['Test Title', 'Min Age', 'Max Age']
-#     table.align['Test Title'] = 'l'
-    
-#     for row in data:
-#         table.add_row(row)
-
-#     return table
-
-# X = text_features.drop(columns=['Book Title', 'MIN', 'MAX'])
-# y = text_features[['MIN', 'MAX']]
-
-# X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=13)
-
-# scaler = StandardScaler()
-# X_train_scaled = scaler.fit_transform(X_train)
-# X_test_scaled = scaler.transform(X_test)
-
-# logreg = LogisticRegression(max_iter=1000, penalty='l2')
-# multi_logreg = MultiOutputClassifier(logreg)
-# multi_logreg.fit(X_train_scaled, y_train)
-
-# lr_pred = multi_logreg.predict(X_test_scaled)
-
-# print(gen_table(lr_pred, X_test.index))
-
-# print('-------------------------------------------------------------------------------------------------')
-# print('Statistics')
-# print('-------------------------------------------------------------------------------------------------')
-# accuracy = accuracy_score(y_test.values.ravel(), lr_pred.ravel())
-# conf_matrix = confusion_matrix(y_test.values.ravel(), lr_pred.ravel())
-# print("Accuracy:", accuracy)
-# print(f'Confusion Matrix:\n{conf_matrix}')
-
+# wordcloud
+wordcloud = WordCloud(width=800, height=800, background_color='white', min_font_size=10)
+wordcloud.generate(' '.join(feature_names))
+plt.imshow(wordcloud, interpolation='bilinear')
+plt.axis('off')
+plt.show()
