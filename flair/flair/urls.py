@@ -19,6 +19,6 @@ from django.conf.urls import include
 
 
 urlpatterns = [
-    path('home/', include('home.urls', namespace="home")),
+    path('', include('home.urls', namespace="home")),
     path('admin/', admin.site.urls),
 ]
