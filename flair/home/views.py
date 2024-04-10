@@ -84,5 +84,5 @@ def get_pred(wordcount, sentcount, avewordlength, avesentlength, totalsyll, mono
     
 def create_wordcloud(text):
     word_freq(text)
-    wordcloud_path = os.getcwd() + "/wordcloud.png"
+    wordcloud_path = os.getcwd() + "/static/wordcloud.png"
     return wordcloud_path

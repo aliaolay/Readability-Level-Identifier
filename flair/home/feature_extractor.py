@@ -122,9 +122,10 @@ def word_freq(input_data):
     plt.axis('off')
     plt.show()
 
-    # Save the word cloud image
+    save_directory = os.getcwd() + "/static"
     image_name = "wordcloud.png"
-    wordcloud.to_file(image_name)
+    image_path = os.path.join(save_directory, image_name)
+    wordcloud.to_file(image_path)
 
     return image_name
 
