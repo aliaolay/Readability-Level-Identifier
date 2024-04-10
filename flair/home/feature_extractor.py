@@ -120,6 +120,7 @@ def word_freq(input_data):
     wordcloud.generate_from_frequencies({word: 1 for word in feature_names}) 
     plt.imshow(wordcloud, interpolation='bilinear')
     plt.axis('off')
+    plt.show()
 
     # Save the word cloud image
     image_name = "wordcloud.png"
