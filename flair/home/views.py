@@ -24,6 +24,10 @@ def calculate_readability(request):
 
             features = extract(data)
             prediction = get_pred(*features)
+            
+            #result_html = f"<p><b>Features:</b> {features}</p><p><b>Prediction:</b> {prediction}</p>"
+            
+            #return result_html
            
          
             return render(request, 'home.html', {
@@ -76,7 +80,7 @@ def get_pred(wordcount, sentcount, avewordlength, avesentlength, totalsyll, mono
         return "Scaler file is empty or corrupted"
 
     try:
-        prediction = model.predict(scaled.transform([[0,wordcount, sentcount, avewordlength, avesentlength, totalsyll, monosyll, polysyll, ntr, vtr, ttr, root_ttr, corr_ttr, bilog_ttr, lexdensity, fwtr]]))
+        prediction = model.predict(scaled.transform([[wordcount, sentcount, avewordlength, avesentlength, totalsyll, monosyll, polysyll, ntr, vtr, ttr, root_ttr, corr_ttr, bilog_ttr, lexdensity, fwtr]]))
         return prediction
     except Exception as e:
         return f"Error occurred during prediction: {str(e)}"
