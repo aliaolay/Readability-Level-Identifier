@@ -99,7 +99,7 @@ def count_syllables(text):
 #POS TAGGER
 def tag_text(text):
     words = nltk.word_tokenize(text)
-    tagged_words = pos_tagger.tag(wordsss)
+    tagged_words = pos_tagger.tag(words)
     return words, tagged_words
     
 # NOUN COUNT

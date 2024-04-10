@@ -17,7 +17,8 @@
                 <div class="left-container">
                     <h2>Assess the readability of your texts</h2>
                     <p>Enter your text or upload your text file below to calculate its readability level. Minimum input must be one (1) paragraph.</p>
-                    <form>
+                    <form id="flair-form" method="post" action="{% url 'home:calculate_readability' %}" enctype="multipart/form-data">
+                        {% csrf_token %}
                         <textarea id="text-input" name="text-input" placeholder="Input your text here..."></textarea>
                         <p>OR</p>
                         <div class="file-upload">
@@ -27,18 +28,18 @@
                             <input type="submit" value="CALCULATE READABILITY" id="submit">
                             <div class="results-container">
                                 <h3>READABILITY RESULTS:</h3>
-                                <p><b>Recommended Age Range: </b> <span class="age-range"></span></p>
+                                <p><b>Recommended Age Range: </b> <span class="age-range"></span>{{min_prediction}}-{{max_prediction}}</p>
                                 <div class="tabs">
                                     <input type="radio" class="tab-button" id="basic-features" name="text-features" value="0" onclick="showResults()" checked><label class="label" for="basic-features">Basic Text Features</label>
                                     <input type="radio" class="tab-button" id="advanced-features" name="text-features" value="1" onclick="showResults()"><label class="label" for="advanced-features">Advanced Text Features</label>
                                 </div>
                                 <div class="results" id="basic-results">
                                     <ul>
-                                        <li>Word Count: <span id="word-count"></span></li>
-                                        <li>Sentence Count: <span id="sent-count"></span></li>
-                                        <li>Average Word Length: <span id="ave-word"></span></li>
-                                        <li>Average Sentence Length: <span id="ave-sent"></span></li>
-                                        <li>Total Number of Syllables: <span id="total-syll"></span></li>
+                                        <li>Word Count: <span id="word-count"></span>{{word_count}}</li>
+                                        <li>Sentence Count: <span id="sent-count"></span>{{sentence_count}}</li>
+                                        <li>Average Word Length: <span id="ave-word"></span>{{ave_word}}</li>
+                                        <li>Average Sentence Length: <span id="ave-sent"></span>{{ave_sent}}</li>
+                                        <li>Total Number of Syllables: <span id="total-syll"></span>{{total_syll}}</li>
                                     </ul>
                                 </div>
                                 <div class="results" id="advanced-results">
@@ -70,6 +71,25 @@
                     document.getElementById("advanced-results").style.display = 'block';
                 }
             }  
+
+            function submitForm() {
+                var form = document.getElementById("flair-form");
+                var formData = new FormData(form);
+                var xhr = new XMLHttpRequest();
+                
+                xhr.onreadystatechange = function() {
+                    if (xhr.readyState === XMLHttpRequest.DONE) {
+                        if (xhr.status === 200) {
+                            document.getElementById("results-container").innerHTML = xhr.responseText;
+                        } else {
+                            console.error('Request failed:', xhr.status);
+                        }
+                    }
+                };
+                
+                xhr.open("POST", form.action);
+                xhr.send(formData);
+            }
         </script>
     </body>
 </html>

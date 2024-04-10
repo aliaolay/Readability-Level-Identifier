@@ -49,7 +49,7 @@ def gen_table(prediction, tests):
 
 #get extracted text features
 path = os.getcwd()
-text_features = pd.read_csv(path + "/training_data.csv")
+text_features = pd.read_csv(path + "/home/training_data.csv")
 text_features_header = list(text_features.columns)
 
 X = text_features.drop(columns=['Book Title', 'MIN', 'MAX'])
@@ -79,20 +79,20 @@ avg_feature_importance = np.mean(feature_importances, axis=0)
 
 features = text_features.columns[2:-2]
 combined = zip(features, avg_feature_importance[1:])
-for pair in list(combined):
-    print(pair)
+#for pair in list(combined):
+    #print(pair)
 
 
 # accuracy results
-print(gen_table(rf_pred, X_test.index))
+#print(gen_table(rf_pred, X_test.index))
 
-print('-------------------------------------------------------------------------------------------------')
-print('Statistics')
-print('-------------------------------------------------------------------------------------------------')
+#print('-------------------------------------------------------------------------------------------------')
+#print('Statistics')
+#print('-------------------------------------------------------------------------------------------------')
 rf_accuracy = accuracy_score(y_test.values.ravel(), rf_pred.ravel())
 conf_matrix = confusion_matrix(y_test.values.ravel(), rf_pred.ravel())
-print("Accuracy:", rf_accuracy)
-print(f'Confusion Matrix:\n{conf_matrix}')
+#print("Accuracy:", rf_accuracy)
+#print(f'Confusion Matrix:\n{conf_matrix}') """
 
 sns.heatmap(conf_matrix, linewidths=.5, cbar_kws={"shrink": .5}, annot=True)
 
