@@ -4,12 +4,34 @@ from .feature_extractor import *
 from .flair_model import *
 
 def home(request):
-    return render(request, 'home.html')
+    # Remove images from the static folder
+    try:
+        image_path = os.path.join(os.getcwd(), 'static', 'wordcloud.png')
+        if os.path.exists(image_path):
+            os.remove(image_path)
+    except Exception as e:
+        # Handle any exceptions, such as permission errors
+        print(f"Error removing image: {e}")
+    
+    #Check if images are in the static folder
+    wordcloud_exists = os.path.exists(os.path.join(os.getcwd(), 'static', 'wordcloud.png'))
+    embeddings_exists = os.path.exists(os.path.join(os.getcwd(), 'static', 'word_embeddings.png'))
+    
+    
+    return render(request, 'home.html', {
+        # Your existing context data...
+        'wordcloud_exists': wordcloud_exists,
+        'embeddings_exists': embeddings_exists
+    })
 
 def calculate_readability(request):
    if request.method == 'POST':
         # Check if the text was provided
         text = request.POST.get('text-input', '')
+        
+        # Save the text input to the session
+        request.session['text_input'] = text
+
 
         # Check if a file was uploaded
         file = request.FILES.get('file-input')
@@ -25,8 +47,13 @@ def calculate_readability(request):
             features = extract(data)
             prediction = get_pred(*features)
             wordcloud_path = create_wordcloud(data)
+            
+            #Check if images are in the static folder
+            wordcloud_exists = os.path.exists(os.path.join(os.getcwd(), 'static', 'wordcloud.png'))
+            embeddings_exists = os.path.exists(os.path.join(os.getcwd(), 'static', 'word_embeddings.png'))
            
             return render(request, 'home.html', {
+                'text_input': text,
                 'word_count': features[0],
                 'sentence_count': features[1],
                 'ave_word': features[2],
@@ -34,7 +61,10 @@ def calculate_readability(request):
                 'total_syll': features[4],
                 'min_prediction': prediction[0][0],
                 'max_prediction': prediction[0][1],
-                'wordcloud': wordcloud_path
+                'wordcloud': wordcloud_path,
+                
+                'wordcloud_exists': wordcloud_exists,
+                'embeddings_exists': embeddings_exists
             })
     
         return HttpResponse("No input provided")

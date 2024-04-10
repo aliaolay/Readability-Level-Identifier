@@ -19,7 +19,7 @@
                     <p>Enter your text or upload your text file below to calculate its readability level. Minimum input must be one (1) paragraph.</p>
                     <form id="flair-form" method="post" action="{% url 'home:calculate_readability' %}" enctype="multipart/form-data">
                         {% csrf_token %}
-                        <textarea id="text-input" name="text-input" placeholder="Input your text here..."></textarea>
+                        <textarea id="text-input" name="text-input" placeholder="Input your text here...">{{ text_input }}</textarea>
                         <p>OR</p>
                         <div class="file-upload">
                             <input type="file" id="file-input" name="file-input" accept=".doc, .docx, .txt">
@@ -43,10 +43,16 @@
                                     </ul>
                                 </div>
                                 <div class="results" id="advanced-results">
-                                    image1
-                                    <img src={{ wordcloud }} alt="Word Cloud">
-                                    image2
-                                    <img id="word-embeddings">
+                                    <ul>
+                                        <li> Word Frequencies:
+                                        {% if wordcloud_exists %}
+                                            <li> <img src="{% static 'wordcloud.png' %}" alt="Word Cloud" id="word-freq" width="400px">
+                                        {% endif %}
+                                        <li> Word Embeddings:
+                                        {% if embeddings_exists %}
+                                            <li> <img src="{% static 'word_embeddings.png' %}" alt="Word Embeddings" id="word-embeddings" width="400px">
+                                        {% endif %}
+                                    </ul>
                                 </div>
                             </div>
                         </div>
