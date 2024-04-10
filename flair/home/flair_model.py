@@ -21,7 +21,7 @@ from sklearn.multioutput import MultiOutputClassifier
 import seaborn as sns
 import matplotlib.pyplot as plt
 
-path = os.getcwd()
+path = os.getcwd().replace('/tfidf-wordclouds', '/flair')
 text_features = pd.read_csv(path + "/home/training_data.csv")
 text_features_header = list(text_features.columns)
 

@@ -17,6 +17,9 @@ from PIL import Image
 from wordcloud import WordCloud, STOPWORDS, ImageColorGenerator
 import stopwordsiso
 from stopwordsiso import stopwords
+from sklearn.feature_extraction.text import TfidfVectorizer
+import matplotlib
+matplotlib.use('Agg') 
 import matplotlib.pyplot as plt
 
 # CURRENT PATH
@@ -95,6 +98,34 @@ def count_syllables(text):
             polysyl_count += 1
 
     return total_syllables, monosyl_count, polysyl_count
+
+def word_freq(input_data):
+    stop_words = set(stopwords('tl'))
+    
+    if isinstance(input_data, str):  # If input_data is text
+        text = input_data
+    else:  # If input_data is a file
+        text = input_data.read().decode('utf-8')
+
+    # Process text and remove stopwords
+    cleaned_text = ' '.join([word.lower() for word in word_tokenize(text) if word.lower() not in stop_words])
+
+    # TF-IDF vectorizer
+    tfidf_vectorizer = TfidfVectorizer()
+    tfidf_matrix = tfidf_vectorizer.fit_transform([cleaned_text])
+    feature_names = tfidf_vectorizer.get_feature_names_out()    # words
+
+    # wordcloud
+    wordcloud = WordCloud(width=800, height=800, background_color='white', min_font_size=10)
+    wordcloud.generate_from_frequencies({word: 1 for word in feature_names}) 
+    plt.imshow(wordcloud, interpolation='bilinear')
+    plt.axis('off')
+
+    # Save the word cloud image
+    image_name = "wordcloud.png"
+    wordcloud.to_file(image_name)
+
+    return image_name
 
 #POS TAGGER
 def tag_text(text):
@@ -209,6 +240,8 @@ def fwtr(words, tagged):
     fw_token_ratio = fw_count/total_token_count
 
     return fw_token_ratio
+
+
 
 # print("Total number of tokens: ", total_token_count)
 # print("Foreign Word-Token Ratio: ", fw_token_ratio)

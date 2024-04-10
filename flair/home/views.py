@@ -24,12 +24,8 @@ def calculate_readability(request):
 
             features = extract(data)
             prediction = get_pred(*features)
-            
-            #result_html = f"<p><b>Features:</b> {features}</p><p><b>Prediction:</b> {prediction}</p>"
-            
-            #return result_html
+            wordcloud_path = create_wordcloud(data)
            
-         
             return render(request, 'home.html', {
                 'word_count': features[0],
                 'sentence_count': features[1],
@@ -37,7 +33,8 @@ def calculate_readability(request):
                 'ave_sent': features[3],
                 'total_syll': features[4],
                 'min_prediction': prediction[0][0],
-                'max_prediction': prediction[0][1]
+                'max_prediction': prediction[0][1],
+                'wordcloud': wordcloud_path
             })
     
         return HttpResponse("No input provided")
@@ -84,3 +81,8 @@ def get_pred(wordcount, sentcount, avewordlength, avesentlength, totalsyll, mono
         return prediction
     except Exception as e:
         return f"Error occurred during prediction: {str(e)}"
+    
+def create_wordcloud(text):
+    word_freq(text)
+    wordcloud_path = os.getcwd() + "/wordcloud.png"
+    return wordcloud_path
