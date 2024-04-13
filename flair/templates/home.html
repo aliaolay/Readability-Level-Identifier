@@ -24,6 +24,8 @@
                         <div class="file-upload">
                             <input type="file" id="file-input" name="file-input" accept=".doc, .docx, .txt">
                         </div>
+                        <br><p>Input a word to discover associated words:</p>
+                        <textarea id="embed-input" name="embed-input" placeholder="Input your text here...">{{ embed_input }}</textarea>
                         <div class="bottom-container">
                             <input type="submit" value="CALCULATE READABILITY" id="submit">
                             <div class="results-container">
@@ -48,10 +50,9 @@
                                         {% if wordcloud_exists %}
                                             <li> <img src="{% static 'wordcloud.png' %}" alt="Word Cloud" id="word-freq" width="400px">
                                         {% endif %}
-                                        <li> Word Embeddings:
-                                        {% if embeddings_exists %}
-                                            <li> <img src="{% static 'word_embeddings.png' %}" alt="Word Embeddings" id="word-embeddings" width="400px">
-                                        {% endif %}
+                                        <li>Related Words from Word Embeddings:
+                                            <li><span id="word-em"></span>{{embeddings}}
+                                        
                                     </ul>
                                 </div>
                             </div>

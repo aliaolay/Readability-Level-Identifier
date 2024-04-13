@@ -22,6 +22,7 @@ import matplotlib
 matplotlib.use('Agg') 
 import matplotlib.pyplot as plt
 import shutil
+import fasttext
 
 # CURRENT PATH
 curr_path = os.getcwd()
@@ -244,7 +245,23 @@ def fwtr(words, tagged):
 
     return fw_token_ratio
 
+#WORD EMBEDDINGS (fasttext)
+def wordembed(word):
+    # pre-trained model
+    # https://fasttext.cc/docs/en/crawl-vectors.html
+    model = fasttext.load_model('cc.tl.300.bin')
 
+    # uses
+    find = word
+    similar = model.get_nearest_neighbors(find, k=100)                      # this is more like a bypass to not get repeated words
+    filtered = [word for word in similar if find not in word[1]]    # filter
+    filitered = filtered[:20]                                # gets top 20 based on the filter
+        
+    wordList = [item[1] for item in filtered]
+
+    wordList = ', '.join(wordList)
+
+    return(wordList)
 
 # print("Total number of tokens: ", total_token_count)
 # print("Foreign Word-Token Ratio: ", fw_token_ratio)

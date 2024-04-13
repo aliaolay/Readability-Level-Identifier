@@ -28,10 +28,11 @@ def calculate_readability(request):
    if request.method == 'POST':
         # Check if the text was provided
         text = request.POST.get('text-input', '')
+        embeddings = request.POST.get('embed-input', '')
         
         # Save the text input to the session
         request.session['text_input'] = text
-
+        request.session['embed_input'] = embeddings
 
         # Check if a file was uploaded
         file = request.FILES.get('file-input')
@@ -47,10 +48,11 @@ def calculate_readability(request):
             features = extract(data)
             prediction = get_pred(*features)
             wordcloud_path = create_wordcloud(data)
+            word_embeddings = wordembed(embeddings)
+    
             
             #Check if images are in the static folder
             wordcloud_exists = os.path.exists(os.path.join(os.getcwd(), 'static', 'wordcloud.png'))
-            embeddings_exists = os.path.exists(os.path.join(os.getcwd(), 'static', 'word_embeddings.png'))
            
             return render(request, 'home.html', {
                 'text_input': text,
@@ -62,9 +64,9 @@ def calculate_readability(request):
                 'min_prediction': prediction[0][0],
                 'max_prediction': prediction[0][1],
                 'wordcloud': wordcloud_path,
+                'embeddings': word_embeddings,
                 
-                'wordcloud_exists': wordcloud_exists,
-                'embeddings_exists': embeddings_exists
+                'wordcloud_exists': wordcloud_exists
             })
     
         return HttpResponse("No input provided")
