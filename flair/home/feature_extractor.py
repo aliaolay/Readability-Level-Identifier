@@ -21,13 +21,14 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 import matplotlib
 matplotlib.use('Agg') 
 import matplotlib.pyplot as plt
+import shutil
 
 # CURRENT PATH
 curr_path = os.getcwd()
 
 # POS-Tagger SET UP
 # input local path to java.exe
-java_path = "C:/Program Files/Java/jre1.8.0_341/bin/java.exe" 
+java_path = os.path.realpath(shutil.which("java"))
 os.environ["JAVAHOME"] = java_path
 jar =  curr_path + "/stanford-postagger.jar"
 
