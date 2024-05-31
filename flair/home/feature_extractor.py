@@ -1,6 +1,7 @@
 import os
 from os import path
 import nltk
+import math
 from nltk import *
 from nltk.tokenize import word_tokenize
 from nltk.tokenize import sent_tokenize
@@ -52,14 +53,14 @@ def sentence_count(text):
 def avg_word_length(text):
     words = text.split()
     total_word_length = sum(len(word) for word in words)
-    avg = total_word_length / len(words)
+    avg = math.ceil(total_word_length / len(words))
 
     return avg
 
 # AVERAGE SENTENCE LENGTH
 def avg_sent_length(text):
     sentences = nltk.sent_tokenize(text)
-    avg = sum(len(sent.split()) for sent in sentences) / len(sentences)
+    avg = math.ceil(sum(len(sent.split()) for sent in sentences) / len(sentences))
 
     return avg
 
